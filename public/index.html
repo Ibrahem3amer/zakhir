@@ -1,0 +1,405 @@
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Zakhir</title>
+			<link rel="stylesheet" type="text/css" href="css/style.css">
+			<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+			<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+	        <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+	        <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+	        <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+			<script type="text/javascript">
+				function addEventListenerList(list) {
+				    for (var i = 0, len = list.length; i < len; i++) {
+				        list[i].addEventListener('click', function(){
+				        	document.getElementById('myframe').style.visibility = "visible";
+				        	window.location.hash = '#myframe';
+				        });
+				    }
+				}
+
+				function display_details() {
+					/*var btn = getElementById('right');
+					btn.addEventListener('click', function (e) {
+					    /*var d = window.parent.document;
+					    var frame = d.getElementById('myframe');
+					    frame.parentNode.removeChild(frame);
+					    e.preventDefault();
+					    alert('gaga');
+					});*/
+					var nodes = document.getElementsByClassName('right-item-btn');
+					addEventListenerList(nodes);
+
+					document.getElementById('close-btn').addEventListener("click", function(){
+						document.getElementById('myframe').style.visibility = "hidden";
+					});
+				}
+
+				$(document).ready(function () {
+	                res = [
+	                  "ActionScript",
+	                  "AppleScript",
+	                  "Asp",
+	                  "BASIC",
+	                  "C",
+	                  "C++",
+	                  "Clojure",
+	                  "COBOL",
+	                  "ColdFusion",
+	                  "Erlang",
+	                  "Fortran",
+	                  "Groovy",
+	                  "Haskell",
+	                  "Java",
+	                  "JavaScript",
+	                  "Lisp",
+	                  "Perl",
+	                  "PHP",
+	                  "Python",
+	                  "Ruby",
+	                  "Scala",
+	                  "Scheme"
+	                ];
+					$( "#tags" ).autocomplete({
+	                        source: res
+                  	});
+				});
+
+
+			</script>
+		</head>
+		<body onload="display_details()">
+			<div id="wrapper">
+				<div class="container upper-header">
+					<header>
+						<div class="row">
+							<div class="col-sm-12 col-md-2 col-lg-2">
+								<img src="img/Zakhir_ar_ok.jpg" width="100px" height="100px" class="">
+							</div>
+							<div class="col-sm-12 col-md-5 col-lg-5">
+								<form>
+									<input type="text" id="tags" placeholder="search" class="form-control" />
+								</form>
+							</div>
+							<div class="col-sm-12 col-md-5 col-lg-5">
+								<div id="client_data">
+									<ul class="nav nav-pills">
+										<div id="cart" class="col-sm-6 col-md-2 col-lg-2">
+										  <li role="presentation" class="dropdown">
+										    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+										     <span> Cart </span>
+										    </a>
+										    <ul class="dropdown-menu">
+										    </ul>
+										  </li>
+										</div>
+										<div id="profile" class="col-sm-6 col-md-2 col-lg-2">
+											<li role="presentation" class="dropdown">
+											    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+											     <span> Profile </span>
+											    </a>
+											    <ul class="dropdown-menu">
+											    	<li ><a href="#" class="fa fa-hand-o-right"> option 1</a></li>
+											    	<li ><a href="#" class="fa fa-hand-o-right"> option 2</a></li>
+											    	<li ><a href="#" class="fa fa-hand-o-right"> option 3</a></li>
+											    	<li ><a href="#" class="fa fa-hand-o-right"> option 4</a></li>
+											    </ul>
+											  </li>
+										</div>
+									</ul> 
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<ul class="nav nav-pills">
+							  <li role="presentation" class="dropdown">
+							    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+							     <span class="fa fa-car"> menu </span>
+							    </a>
+							    <ul class="dropdown-menu">
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    </ul>
+							  </li>
+							  <li role="presentation" class="dropdown">
+							    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+							     <span class="fa fa-car"> menu </span>
+							    </a>
+							    <ul class="dropdown-menu">
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    </ul>
+							  </li>
+							  <li role="presentation" class="dropdown">
+							    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+							     <span class="fa fa-car"> menu </span>
+							    </a>
+							    <ul class="dropdown-menu">
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    </ul>
+							  </li>
+							  <li role="presentation" class="dropdown">
+							    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+							     <span class="fa fa-car"> menu </span>
+							    </a>
+							    <ul class="dropdown-menu">
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+							    </ul>
+							  </li>
+							</ul>
+						</div>
+					</header>	
+				</div>	
+
+				<br /> 
+
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-6 col-md-4 col-lg-4">
+						    <div class="thumbnail">
+						      <div class="thumb-hover" id="thumb-wrap" style="padding-top: 70%; padding-left: 10px; padding-right: 10px;"> 
+								<div class="btn-group btn-group-justified thumb-options" role="group" aria-label="data" >
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default left">Left</button>
+								  </div>
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default right-item-btn">Right</button>
+								  </div>
+								</div>
+						      </div>
+						      <div class="caption">
+						        <h3><span class="fa fa-bolt"></span> Thumbnail label</h3>
+						        <h5>252$</h5>
+						        <hr />	
+						        <p> linda boyd asked: What is brand and name of drawer pulls? - "Name and brand of drawer pulls?"	</p>
+						        <p>
+						        	<small class="pull-left">3 hours ago</small>
+						        	<small class="pull-right">1.3K views</small>
+						        	<br />
+						        </p>
+						      </div>
+						    </div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-4">
+						    <div class="thumbnail">
+						      <div class="thumb-hover" id="thumb-wrap" style="padding-top: 70%; padding-left: 10px; padding-right: 10px;"> 
+								<div class="btn-group btn-group-justified thumb-options" role="group" aria-label="data" >
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default left">Left</button>
+								  </div>
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default right-item-btn">Right</button>
+								  </div>
+								</div>
+						      </div>
+						      <div class="caption">
+						        <h3><span class="fa fa-bolt"></span> Thumbnail label</h3>
+						        <h5>252$</h5>
+						        <hr />	
+						        <p> linda boyd asked: What is brand and name of drawer pulls? - "Name and brand of drawer pulls?"	</p>
+						        <p>
+						        	<small class="pull-left">3 hours ago</small>
+						        	<small class="pull-right">1.3K views</small>
+						        	<br />
+						        </p>
+						      </div>
+						    </div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-4">
+						    <div class="thumbnail">
+						      <div class="thumb-hover" id="thumb-wrap" style="padding-top: 70%; padding-left: 10px; padding-right: 10px;"> 
+								<div class="btn-group btn-group-justified thumb-options" role="group" aria-label="data" >
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default left">Left</button>
+								  </div>
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default right-item-btn">Right</button>
+								  </div>
+								</div>
+						      </div>
+						      <div class="caption">
+						        <h3><span class="fa fa-bolt"></span> Thumbnail label</h3>
+						        <h5>252$</h5>
+						        <hr />	
+						        <p> linda boyd asked: What is brand and name of drawer pulls? - "Name and brand of drawer pulls?"	</p>
+						        <p>
+						        	<small class="pull-left">3 hours ago</small>
+						        	<small class="pull-right">1.3K views</small>
+						        	<br />
+						        </p>
+						      </div>
+						    </div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-sm-6 col-md-4 col-lg-4">
+						    <div class="thumbnail">
+						      <div class="thumb-hover" id="thumb-wrap" style="padding-top: 70%; padding-left: 10px; padding-right: 10px;"> 
+								<div class="btn-group btn-group-justified thumb-options" role="group" aria-label="data" >
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default left">Left</button>
+								  </div>
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default right-item-btn">Right</button>
+								  </div>
+								</div>
+						      </div>
+						      <div class="caption">
+						        <h3><span class="fa fa-bolt"></span> Thumbnail label</h3>
+						        <h5>252$</h5>
+						        <hr />	
+						        <p> linda boyd asked: What is brand and name of drawer pulls? - "Name and brand of drawer pulls?"	</p>
+						        <p>
+						        	<small class="pull-left">3 hours ago</small>
+						        	<small class="pull-right">1.3K views</small>
+						        	<br />
+						        </p>
+						      </div>
+						    </div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-4">
+						    <div class="thumbnail">
+						      <div class="thumb-hover" id="thumb-wrap" style="padding-top: 70%; padding-left: 10px; padding-right: 10px;"> 
+								<div class="btn-group btn-group-justified thumb-options" role="group" aria-label="data" >
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default left">Left</button>
+								  </div>
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default right-item-btn">Right</button>
+								  </div>
+								</div>
+						      </div>
+						      <div class="caption">
+						        <h3><span class="fa fa-bolt"></span> Thumbnail label</h3>
+						        <h5>252$</h5>
+						        <hr />	
+						        <p> linda boyd asked: What is brand and name of drawer pulls? - "Name and brand of drawer pulls?"	</p>
+						        <p>
+						        	<small class="pull-left">3 hours ago</small>
+						        	<small class="pull-right">1.3K views</small>
+						        	<br />
+						        </p>
+						      </div>
+						    </div>
+						</div>
+
+						<div class="col-sm-6 col-md-4 col-lg-4">
+						    <div class="thumbnail">
+						      <div class="thumb-hover" id="thumb-wrap" style="padding-top: 70%; padding-left: 10px; padding-right: 10px;"> 
+								<div class="btn-group btn-group-justified thumb-options" role="group" aria-label="data" >
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default left">Left</button>
+								  </div>
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default right-item-btn">Right</button>
+								  </div>
+								</div>
+						      </div>
+						      <div class="caption">
+						        <h3><span class="fa fa-bolt"></span> Thumbnail label</h3>
+						        <h5>252$</h5>
+						        <hr />	
+						        <p> linda boyd asked: What is brand and name of drawer pulls? - "Name and brand of drawer pulls?"	</p>
+						        <p>
+						        	<small class="pull-left">3 hours ago</small>
+						        	<small class="pull-right">1.3K views</small>
+						        	<br />
+						        </p>
+						      </div>
+						    </div>
+						</div>
+					</div>
+
+					<div class="row">
+						<div class="col-sm-12 col-md-12 col-lg-12">
+						    <div class="thumbnail">
+						      <div class="thumb-hover" id="bigbanner" style="padding-top: 22.5%; padding-left: 10px; padding-right: 10px;"> 
+								<div class="btn-group btn-group-justified thumb-options" role="group" aria-label="data" >
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default left">Left</button>
+								  </div>
+								  <div class="btn-group" role="group">
+								    <button type="button" class="btn btn-default right-item-btn">Right</button>
+								  </div>
+								</div>
+						      </div>
+						    </div>
+						</div>
+					</div>
+
+			    <div class="pop-up-details" id="myframe">
+			    	<div id="toolbar">
+			    		<div class="pull-right" id="close-btn">
+			    			<span><a href="#" id="x-btn">X</a></span>
+			    		</div>
+			    	</div>
+			    	<iframe src="page.html" width="100%" height="100%">
+			    	</iframe>
+			    </div>
+
+				</div>
+
+				<div class="container">
+					<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+						<!-- Indicators -->
+						<ol class="carousel-indicators">
+							<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+							<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+						</ol>
+
+						<!-- Wrapper for slides -->
+						<div class="carousel-inner tex" role="listbox">
+						<div class="item active">
+						  <img src="file:///media/ibrahem3amer/Media/work/Zakhir/Front-end/img/slide.svg" alt="">
+						  <div class="carousel-caption">
+						    
+						  </div>
+						</div>
+
+						<div class="item">
+						  <img src="file:///media/ibrahem3amer/Media/work/Zakhir/Front-end/img/slide.svg" alt="">
+						  <div class="carousel-caption">
+						    
+						  </div>
+						</div>
+
+						</div>
+
+						<!-- Controls -->
+						<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+						</a>
+						<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+						<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+						</a>
+
+					</div>
+				</div>
+
+				<br />
+
+				<footer>
+					<P>All rights reserved</P>
+				</footer>
+
+			</div>
+		</body>
+	</html>
