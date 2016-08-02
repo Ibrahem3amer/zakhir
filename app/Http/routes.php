@@ -18,3 +18,14 @@ Route::get('/', function () {
 
 
 Route::controller('users', 'UsersController');
+
+Route::controller('pages', 'NavBarController');
+
+Route::controller('media', 'MediaController');
+
+Route::controller('product', 'ProductsController');
+
+Route::controller('cart', 'CartController');
+
+Route::controller('order', 'OrdersController');
+

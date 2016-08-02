@@ -23,4 +23,15 @@ class User extends Authenticatable
     protected $hidden = [
         'password', 'remember_token',
     ];
+
+    public function orders()
+    {
+        return $this->hasMany('App\Order');
+    }
+
+    public function GetPassword( $id )
+    {
+        $user = \App\User::find( $id )->first();
+        return $user->password;
+    }
 }

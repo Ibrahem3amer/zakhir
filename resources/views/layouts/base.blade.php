@@ -7,8 +7,12 @@
 		<link rel="stylesheet" type="text/css" href="/css/bootstrap.css">
 		<link rel="stylesheet" type="text/css" href="/css/font-awesome.css">
         <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="/deso/jquery.desoslide.css" />
         <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
         <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+        <script type="text/javascript" src="/fancybox/jquery.fancybox.pack.js"></script>
+        <script type="text/javascript" src="/deso/jquery.desoslide.min.js"></script>
         <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 		<script type="text/javascript">
 			function addEventListenerList(list) {
@@ -95,70 +99,62 @@
 									    </ul>
 									  </li>
 									</div>
-									<div id="profile" class="col-sm-6 col-md-2 col-lg-2">
-										<li role="presentation" class="dropdown">
-										    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-										     <span> Profile </span>
-										    </a>
-										    <ul class="dropdown-menu">
-										    	<li ><a href="#" class="fa fa-hand-o-right"> option 1</a></li>
-										    	<li ><a href="#" class="fa fa-hand-o-right"> option 2</a></li>
-										    	<li ><a href="#" class="fa fa-hand-o-right"> option 3</a></li>
-										    	<li ><a href="#" class="fa fa-hand-o-right"> option 4</a></li>
-										    </ul>
-										  </li>
-									</div>
+									@if( \Auth::user())
+										<div id="profile" class="col-sm-6 col-md-2 col-lg-2">
+											<li role="presentation" class="dropdown">
+											    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+											     <span> Profile </span>
+											    </a>
+											    <ul class="dropdown-menu">
+													<h4>welcome {!! \Auth::user()->name !!} </h4>
+													<button value="{!! \Auth::logout() !!}">Logout</button>
+											    </ul>
+											  </li>
+										</div>
+									@endif
 								</ul> 
-								@if( \Auth::user())
-									<h1>welcome {!! \Auth::user()->name !!} </h1>
-								@endif
 							</div>
 						</div>
 					</div>
+					<br />
 					<div class="row">
 						<ul class="nav nav-pills">
 						  <li role="presentation" class="dropdown">
-						    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-						     <span class="fa fa-car"> menu </span>
+						    <a class="dropdown-toggle" data-toggle="dropdown" href="/about" role="button" aria-haspopup="true" aria-expanded="false">
+						     <span class="glyphicon glyphicon-list"> About </span>
 						    </a>
 						    <ul class="dropdown-menu">
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+						    	<li><a href="{{ URL::to('/') }}/pages/team" class="fa fa-hand-o-right"> About us</a></li>
+						    	<li><a href="{{ URL::to('/') }}/pages/team" class="fa fa-hand-o-right"> Team</a></li>
+						    	<li><a href="{{ URL::to('/') }}/pages/team" class="fa fa-hand-o-right"> Why us</a></li>
 						    </ul>
 						  </li>
+						  <?php $categories = \App\Cat::all(); ?>
 						  <li role="presentation" class="dropdown">
 						    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-						     <span class="fa fa-car"> menu </span>
+						     <span class="glyphicon glyphicon-shopping-cart"> Shop </span>
 						    </a>
 						    <ul class="dropdown-menu">
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+						    	@foreach( $categories as $cat )
+						    		<li>
+							    		<a href="{{ URL::to('/') }}/product/cat/{{ $cat->id }}" class="fa fa-hand-o-right"> {{ $cat->name }}
+							    		</a>
+							    	</li>
+							    @endforeach
 						    </ul>
 						  </li>
+						  <?php $albums = \App\Album::all(); ?>
 						  <li role="presentation" class="dropdown">
 						    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-						     <span class="fa fa-car"> menu </span>
+						     <span class="glyphicon glyphicon-camera"> Photos </span>
 						    </a>
 						    <ul class="dropdown-menu">
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    </ul>
-						  </li>
-						  <li role="presentation" class="dropdown">
-						    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-						     <span class="fa fa-car"> menu </span>
-						    </a>
-						    <ul class="dropdown-menu">
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
-						    	<li><a href="#" class="fa fa-hand-o-right">hihi</a></li>
+						    	@foreach( $albums as $cat )
+						    		<li>
+							    		<a href="{{ URL::to('/') }}/media/album/{{ $cat->id }}" class="fa fa-hand-o-right"> {{ $cat->name }}
+							    		</a>
+							    	</li>
+							    @endforeach
 						    </ul>
 						  </li>
 						</ul>

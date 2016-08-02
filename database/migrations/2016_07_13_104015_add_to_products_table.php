@@ -23,10 +23,6 @@ class AddToProductsTable extends Migration
                    ->on('photos')
                    ->onDelete('cascade');
 
-            $table->foreign('sub_cat_id')
-                   ->references('id')
-                   ->on('sub_cats')
-                   ->onDelete('cascade'); 
         });
     }
 

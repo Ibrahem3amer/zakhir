@@ -3,7 +3,7 @@
 @section('body')
   <div class="container">
       <ol class="breadcrumb">
-        <li><a href="index.html">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li class="active">Account</li>
        </ol>
      <div class="registration">
@@ -53,7 +53,7 @@
         
          })();
          </script>
-        @if( !\Auth::user() )
+        @if( \Auth::user() )
           <h1>Hello {{ \Auth::user()->name }} </h1>        
         @else
           <h2>new user? <span> create an account </span></h2>
@@ -106,7 +106,7 @@
            <h2>existing user</h2>
            <div class="registration_form">
            <!-- Form -->
-            {!! Form::open() !! }
+            {!! Form::open() !!}
               <div>
                 <label>
                   <input placeholder="email" type="email" tabindex="3" required>
