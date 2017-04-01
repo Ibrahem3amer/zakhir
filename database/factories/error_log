@@ -1,0 +1,32 @@
+[12-Aug-2016 01:28:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home1/zakhir/public_html/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/database/factories/ModelFactory.php on line 14
+[13-Aug-2016 09:52:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home1/zakhir/public_html/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/database/factories/ModelFactory.php on line 14
+[13-Aug-2016 10:21:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home1/zakhir/public_html/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/database/factories/ModelFactory.php on line 14
+[13-Aug-2016 15:59:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home1/zakhir/public_html/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/database/factories/ModelFactory.php on line 14
+[22-Aug-2016 04:05:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home1/zakhir/public_html/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/database/factories/ModelFactory.php on line 14
+[25-Aug-2016 02:12:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home1/zakhir/public_html/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/database/factories/ModelFactory.php on line 14
+[01-Sep-2016 05:46:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home1/zakhir/public_html/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/database/factories/ModelFactory.php on line 14
+[11-Sep-2016 07:24:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home1/zakhir/public_html/database/factories/ModelFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/database/factories/ModelFactory.php on line 14

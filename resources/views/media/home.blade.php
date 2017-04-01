@@ -124,7 +124,7 @@
 										$('.imgs-container').empty();
 										id = $(this).attr('value');
 						                $.ajax({
-						                    url:"/media/albums?q="+id,
+						                    url:"/public/media/albums?q="+id,
 						                    success:function(photos)
 						                    {
 						                    	for (var i = photos.length-1; i >= 0; i--) 

@@ -1,211 +1,192 @@
 @extends('layouts.base')
 
 @section('body')
-	<div class="product-model">	 
-		<div class="container page-container">
-			<ol class="breadcrumb">
-			  <li><a href="{{URL::to('/')}}">Home</a></li>
-			  <li class="active">Products</li>
-		 	</ol>
-			<h2 class="target">Photo album</h2>	
-			<div class="photo_item">
-			 	<div class="col-md-9 product-model-sec pull-right">
-			 		<a href="single.html" class="box" title="">
-					 	<div class="product-grid">
-						<div class="more-product"><span></span></div>						
-						<div class="product-img b-link-stripe b-animate-go  thickbox">
-							<img src="{{ URL::to('/') }}/img/p1.jpg" class="img-responsive photo-url" alt="">
-						</div>
-					</a>						
-					<div class="product-info simpleCart_shelfItem">
-						<div class="product-info-cust prt_name">
-							<h3></h3>							
-						</div>						
-					</div>
-				</div>	
-				<div class="author-info">
-					<h1 class="photo-title">Image title</h1>
-					<div class="rating">
-						<span class="glyphicon glyphicon-star"></span>
-						<span class="glyphicon glyphicon-star"></span>
-						<span class="glyphicon glyphicon-star"></span>
-						<span class="glyphicon glyphicon-star fake"></span>
-						<span class="glyphicon glyphicon-star fake"></span>
+<div class="main-cont container">
+  <div id="main" style="display: none;">
+    <div class="col-md-9 col-lg-9 image-block prod">
+      <input type="hidden" value="" class="product_id" />
+      <input type="hidden" value="" class="photo_url" />
+      <div class="photo-content wow fadeInLeft animated" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+        <div class="images" href="product.html" style="background-image: url();"> 
+          <div class="overlay">
+            <div class="btn-group">
+              <a class="single_4" href="" title="">
+              <button type="button" class="btn btn-default glyphicon glyphicon-fullscreen"><span>  تفاصيل</span></button>
+              </a>
+              <a class="grab_info" href="product.html"><button type="button" class="btn btn-default glyphicon glyphicon-star"><span>  حفظ</span></button>
+              </a>
+            </div>
+          </div>      
+        </div>
+      </div>
+    </div>
+    <div class="product_info img-info">
+      <div class="caption"><!-- name-->
+        <span class="glyphicon glyphicon-tag" aria-hidden="true"></span>
+        <a href="#" class="link prt_name">صالة الدخول</a>
+      </div>
+      <hr />
+      <div class="price-info"><!-- price-->
+        <div class="product-price">200$</div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="products pull-left col-sm-12 col-md-10 col-lg-10">
+      <div class="inner-content">
+        <div class="row imgs-container">
+          @if( isset($photos) )
+            @foreach( $photos as $photo )
+              <div class="col-md-9 col-lg-9 prod">
+                <input type="hidden" value="{{$photo->id}}" class="product_id" />
+                <input type="hidden" value="{{$photo->photo_url}}" class="photo_url" />
+                <?php $cats = \App\Album::all(); $prod_cat = $cats->find($photo->album_id)->pluck('name')->first(); ?>
+                <div class="photo-content wow fadeInLeft animated" data-wow-duration="1s" data-wow-delay="1s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                  <div class="images" style="background-image: url({{$photo->photo_url}});"> 
+                    <div class="overlay">
+                      <div class="btn-group">
+                        <a class="single_4" href="{{$photo->photo_url}}" title="{{$photo->title}}">
+                        <button type="button" class="btn btn-default glyphicon glyphicon-fullscreen"><span>  تفاصيل</span></button>
+                        </a>
+                        <a class="grab_info" href="product.html"><button type="button" class="btn btn-default glyphicon glyphicon-star"><span>  حفظ</span></button>
+                        </a>
+                      </div>
+                    </div>      
+                  </div>
+                </div>
+              </div>
+              <div class="product_info img-info">
+                <div class="caption"><!-- name-->
+                  <span class="glyphicon glyphicon-tag" aria-hidden="true"></span>
+                  <a class="link product_name">{{ $photo->title }}</a>
+                </div>
+                <hr />
+                <div class="price-info"><!-- price-->
+                  <div class="product-price product_price">{{$photo->description}}</div>
+                  <span class="info cat_name" style="font-style: italic;"><small>{{$prod_cat}}</small></span>
+                  <br>
+                </div>
+              </div>
+            @endforeach
+          @endif
+        </div>
+      </div>
+    </div>
+    <div class="side-menu pull-right col-sm-12 col-md-2 col-lg-2">
+      <ul class="main-items">
+        <li>
+          <h6>الألبومات</h6>
+          <hr />
+          <ul class="menu-items">
+            <?php $cats = \App\Cat::all(); ?>
+            @foreach( $cats as $cat )
+              <li>
+                {{$cat->name}}
+                @foreach( $cat->albums->toArray() as $album )
+                  @if( null !== $album )
+                    <ul class="nested-menu">
+                      <li>
+                        <a class="album_name" href="#" value="{{$album['id']}}">
+                          <p>{{$album['name']}}</p>
+                        </a>
+                      </li>
+                    </ul>
+                  @endif
+                @endforeach
+              </li>
+            @endforeach
+          </ul>
+        </li>
+      </ul>
+    </div> 
+  </div>  
+</div>
 
-					</div>
-					<p class="photo-description">
-						Rule Your Incidents, Changes & Problems. Trusted By 10,000+ IT Teams! Try For Free Today.Rule Your Incidents, Changes & Problems. Trusted By 10,000+ IT Teams! Try For Free Today.
-					</p>
-					<small class="glyphicon glyphicon-eye-open photo-views"> 1250 views</small>
-					<p></p>
-					<div class="social-photo">
-						<a href="#"><span class="fa fa-facebook"></a>&nbsp&nbsp</span>
-						<a href="#"><span class="fa fa-twitter"></a>&nbsp&nbsp</span>
-						<a href="#"><span class="fa fa-google-plus"></a>&nbsp&nbsp</span>
-						<a href="#"><span class="fa fa-share-square-o"></a>&nbsp&nbsp</span>
-					</div>
-				</div>
-				</div>
-			</div>		
-			<div class="imgs-container">
-				@foreach( $photos as $photo )
-				 	<div class="col-md-9 product-model-sec pull-right">
-				 		<a href="{{ URL::to('/').$photo->photo_url }}" class="fancybox" title="{{ $photo->description }}">
-						 	<div class="product-grid">
-							<div class="more-product"><span></span></div>						
-							<div class="product-img b-link-stripe b-animate-go  thickbox">
-								<img src="{{ URL::to('/').$photo->photo_url }}" class="img-responsive photo-url" alt="">
-							</div>
-						</a>						
-						<div class="product-info simpleCart_shelfItem">
-							<div class="product-info-cust prt_name">
-								<h3></h3>							
-							</div>						
-						</div>
-					</div>	
-					<div class="author-info">
-						<h1 class="photo-title">{{ $photo->title}}</h1>
-						<div class="rating">
-							<span class="glyphicon glyphicon-star"></span>
-							<span class="glyphicon glyphicon-star"></span>
-							<span class="glyphicon glyphicon-star"></span>
-							<span class="glyphicon glyphicon-star fake"></span>
-							<span class="glyphicon glyphicon-star fake"></span>
-						</div>
-						<p class="photo-description">
-							Rule Your Incidents, Changes & Problems. Trusted By 10,000+ IT Teams! Try For Free Today.Rule Your Incidents, Changes & Problems. Trusted By 10,000+ IT Teams! Try For Free Today.
-						</p>
-						<small class="glyphicon glyphicon-eye-open photo-views"> 1250 views</small>
-						<p></p>
-						<div class="social-photo">
-							<a href="#"><span class="fa fa-facebook"></a>&nbsp&nbsp</span>
-							<a href="#"><span class="fa fa-twitter"></a>&nbsp&nbsp</span>
-							<a href="#"><span class="fa fa-google-plus"></a>&nbsp&nbsp</span>
-							<a href="#"><span class="fa fa-share-square-o"></a>&nbsp&nbsp</span>
-						</div>
-					</div>
-					</div>
-				@endforeach
-				<script type="text/javascript">
-					$('.fancybox').fancybox({
+<div id="pop_up_details" class="product-pop" style="display: none;">
+  <div class="row">
+    <div class="product-pop-item">
+      <div class="col-lg-12 col-md-12 col-xs-12">
+        <img class="box_img" src="image/44-min.jpg" style="width:100%">
+      </div>
+      <div class="product-pop-sharing text-center">
+        <ul>
+         <li><a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+         <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+         <li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+         <li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>   
+<script>
+  new WOW().init();
+  $(document).ready(function(){
+    $(".single_4").fancybox({
+      openEffect  : 'elastic',
+      closeEffect : 'elastic',
+      helpers : {
+        title : {
+          type : 'over'
+        }
+      }
+    });
+    $('.fancybox').fancybox({
+      openEffect  : 'elastic',
+      closeEffect : 'elastic',
+      helpers : {
+        title : {
+          type : 'over'
+        }
+      }
+    });
+    $('.album_name').click(function(){
+      $('.imgs-container').empty();
+      id = $(this).attr('value');
+      $.ajax({
+          url:"/public/media/albums?q="+id,
+          success:function(photos)
+          {
+            for (var i = photos.length-1; i >= 0; i--) 
+            { 
+              var img = $('#main');
+              img = img.clone().appendTo('.imgs-container');
+              var anchor = img.find('.single_4');
+              anchor.attr('href', photos[i].photo_url);
+              anchor.attr('title', photos[i].title);
+              var img_url = img.find('.images');
+              var prod_title = img.find('.prt_name');
+              var prod_price = img.find('.product-price');
+              var urlSyntax = photos[i].photo_url;
+              img_url.css('background-image','url('+urlSyntax+')');
+              prod_title.text(photos[i].title);
+              prod_price.text(photos[i].description);
+              img.show();
 
-						openEffect	: 'elastic',
-				    	closeEffect	: 'elastic',
-
-				    	helpers : {
-				    		title : {
-				    			type : 'over'
-				    		}
-				    	}
-					});
-				</script>
-			</div>
-				<div class="rsidebar span_1_of_left">
-					 <section  class="sky-form">
-						 <div class="product_right">
-							 <h4 class="m_2"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span>Categories</h4>
-							 <?php $i = 1; ?>
-							 @foreach( $cats as $cat )
-							 <div class="tab{{ $i++ }}">
-								 <ul class="place">								
-									 <li class="sort">{{ $cat->name }}</li>
-									 <li class="by"><img src="{{ URL::to('/') }}/img/do.png" alt=""></li>
-										<div class="clearfix"> </div>
-								  </ul>								  
-							 	<div class="single-bottom">
-							 	@foreach( $cat->albums->toArray() as $album )
-							 		@if( null !== $album )
-									<a class="album_name" href="#" value="{{$album['id']}}">
-										<p>{{ $album['name'] }}</p>
-									</a>
-									@endif
-								@endforeach
-						     	</div>
-						      </div>
-						      @endforeach						 
-							
-							  <!--script-->
-							<script>
-								$(document).ready(function(){
-									$('.photo_item').hide();
-									$(".tab1 .single-bottom").hide();
-									$(".tab2 .single-bottom").hide();
-									$(".tab3 .single-bottom").hide();
-									$(".tab4 .single-bottom").hide();
-									$(".tab5 .single-bottom").hide();
-									
-									$(".tab1 ul").click(function(){
-										$(".tab1 .single-bottom").slideToggle(300);
-										$(".tab2 .single-bottom").hide();
-										$(".tab3 .single-bottom").hide();
-										$(".tab4 .single-bottom").hide();
-										$(".tab5 .single-bottom").hide();
-									})
-									$(".tab2 ul").click(function(){
-										$(".tab2 .single-bottom").slideToggle(300);
-										$(".tab1 .single-bottom").hide();
-										$(".tab3 .single-bottom").hide();
-										$(".tab4 .single-bottom").hide();
-										$(".tab5 .single-bottom").hide();
-									})
-									$(".tab3 ul").click(function(){
-										$(".tab3 .single-bottom").slideToggle(300);
-										$(".tab4 .single-bottom").hide();
-										$(".tab5 .single-bottom").hide();
-										$(".tab2 .single-bottom").hide();
-										$(".tab1 .single-bottom").hide();
-									})
-									$(".tab4 ul").click(function(){
-										$(".tab4 .single-bottom").slideToggle(300);
-										$(".tab5 .single-bottom").hide();
-										$(".tab3 .single-bottom").hide();
-										$(".tab2 .single-bottom").hide();
-										$(".tab1 .single-bottom").hide();
-									})	
-									$(".tab5 ul").click(function(){
-										$(".tab5 .single-bottom").slideToggle(300);
-										$(".tab4 .single-bottom").hide();
-										$(".tab3 .single-bottom").hide();
-										$(".tab2 .single-bottom").hide();
-										$(".tab1 .single-bottom").hide();
-									})	
-
-									$('.album_name').click(function(){
-										$('.imgs-container').empty();
-										id = $(this).attr('value');
-						                $.ajax({
-						                    url:"/media/albums?q="+id,
-						                    success:function(photos)
-						                    {
-						                    	for (var i = photos.length-1; i >= 0; i--) 
-						                    	{	
-						                    		var img = $('.photo_item');
-						                    		img = img.clone().appendTo('.imgs-container');
-						                    		var num = 'photo_item'+(i+1);
-						                    		img.attr('class', num);
-						                    		var img_url = img.find('.photo-url');
-						                    		var img_title = img.find('.photo-title');
-						                    		var img_des = img.find('.photo-description');
-						                    		var urlSyntax = "{{ URL::to('/') }}"+photos[i].photo_url;
-						                    		img_url.attr('src', urlSyntax);
-						                    		img_title.text(photos[i].title);
-						                    		var boxElement = img.find('.box');
-						                    		boxElement.attr('href', urlSyntax);
-						                    		boxElement.attr('title', photos[i].description);
-						                    		boxElement.addClass('fancybox');
-						                    		/*img.childern('.product-model-sec').removeClass('pull-right');*/
-						                    		img.fadeIn();
-
-						                    	}
-						                    }
-						                });
-									});
-							});
-							</script>
-							<!-- script -->					 
-					 </section>				 			   
-				 </div>				 
-		      </div>
-		</div>
-	</div>
+            }
+            $(".single_4").fancybox({
+              openEffect  : 'elastic',
+              closeEffect : 'elastic',
+              helpers : {
+                title : {
+                  type : 'over'
+                }
+              }
+            });
+          }
+      });
+    }); 
+    $('.grab_info').click(function(){
+      prod = $(this).closest('.prod');
+      img = prod.find('.photo_url');
+      title = prod.find('.product_name');
+      price = prod.find('.product_price');
+      box_img = $('.box_img');
+      box_img.attr('src', img.val());
+      var box_title = $('.box_title');
+      box_title.text(title.text());
+    });
+  });
+ 
+</script>
 @endsection

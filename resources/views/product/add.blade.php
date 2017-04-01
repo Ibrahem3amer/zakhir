@@ -1,7 +1,7 @@
 @extends('layouts.base')
 
 @section('body')
-	<div class="container">
+	<div class="container" style="float: right; direction: rtl;">
 
 		@if (count($errors) > 0)
 		    <div class="alert alert-danger">
@@ -13,18 +13,18 @@
 		    </div>
 		@endif
 		{!! Form::open(['url'=>'product/addproduct','method'=>'POST', 'files'=>true]) !!}
-			<label for="pr_name">Name</label>
-			<input type="input" placeholder="your product name" name="pr_name" value="" />
+			<label for="pr_name">اسم المنتج</label>
+			<input type="input" placeholder="اسم المنتج" name="pr_name" value="" />
 			<br />
-			<label for="pr_price">Price</label>
-			<input type="input" placeholder="your product name" name="pr_price" />
+			<label for="pr_price">السعر بالدولار</label>
+			<input type="input" placeholder="السعر المطلوب للوحدة" name="pr_price" />
 			<br />
 			<div class="upload_photo">
-				<label for="choose">choose photo</label>
-				<a class="various" href="#albums" id="pr_pick"><div class="btn">pick a photo</div></a>
+				<label for="choose">أضف صورة: </label>
+				<a class="various" href="#albums" id="pr_pick"><div class="btn">اختر من الأستوديو</div></a>
 				<input type="hidden" name="picker" value="" class="picker"/>
-				<label for="uploader">or upload</label>
-				<a class="various" href="#add_photo"><div class="btn upload_btn upload" value="">Upload one</div></a>
+				<label for="uploader">أو</label>
+				<a class="various" href="#add_photo"><div class="btn upload_btn upload" value="">قم برفع صورة جديدة</div></a>
 				@if( null !== session('photo') )
 					{{ session('photo')->photo_url }}
 					<input type="hidden" name="uploader" value="{{ session('photo')->photo_url }}"/>
@@ -99,7 +99,7 @@
 				$('.album').click(function(){
 					var id = $(this).attr('value');
 					$.ajax({
-			            url:"/product/photos?q="+id,
+			            url:"/public/media/photos?q="+id,
 			            success:function(photos)
 			            {
 			            	$('.photos').fadeIn();

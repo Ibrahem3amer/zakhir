@@ -12,26 +12,30 @@ class Cart extends Model
      * @var array
      */
     protected $fillable = [
-        'user_id', 'product_id', 'quantity'
+        'user_id', 'product_id', 'quantity', 'size', 'color'
     ];
 
-    static public function AddToCart($prod_id, $user_id, $quan)
+    static public function AddToCart($prod_id, $user_id, $quan, $size, $color)
     {
-    	$existing_prod = Cart::where('product_id', $prod_id)->where('user_id', $user_id)->first();
-    	if( $existing_prod )
-    	{
-    		$existing_prod->quantity += $quan;
-    		$existing_prod->save();
-    		return true;
-    	}
-    	else{
-	    	$product = Cart::create([
-	    			'user_id' => $user_id,
-	    			'product_id' => $prod_id,
-	    			'quantity' => $quan,
-	    		]);
-	    		return true;
-    	}
+        $existing_prod = Cart::where('product_id', $prod_id)->where('user_id', $user_id)->where('active', 1)->where('wishlist', 0)->first();
+        
+        if( $existing_prod )
+        {   
+            if($existing_prod->color == $color && $existing_prod->size == $size)
+            {
+                $existing_prod->quantity += $quan;
+                $existing_prod->save();
+                return true;
+            }
+        }
+        $product = Cart::create([
+                'user_id' => $user_id,
+                'product_id' => $prod_id,
+                'quantity' => $quan,
+                'size' => $size,
+                'color' => $color
+            ]);
+            return true;
 
     }
 

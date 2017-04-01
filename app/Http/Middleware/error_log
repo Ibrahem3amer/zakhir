@@ -1,0 +1,14 @@
+[12-Aug-2016 01:32:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home1/zakhir/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[12-Aug-2016 01:33:27 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home1/zakhir/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[13-Aug-2016 09:54:59 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home1/zakhir/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[13-Aug-2016 09:55:30 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home1/zakhir/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[13-Aug-2016 10:24:12 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home1/zakhir/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[13-Aug-2016 10:25:04 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home1/zakhir/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[18-Aug-2016 22:05:12 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home1/zakhir/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[18-Aug-2016 22:05:15 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home1/zakhir/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[22-Aug-2016 04:09:24 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home1/zakhir/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[22-Aug-2016 04:10:53 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home1/zakhir/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[01-Sep-2016 05:49:18 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home1/zakhir/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[01-Sep-2016 05:50:32 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home1/zakhir/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[11-Sep-2016 07:27:57 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home1/zakhir/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[11-Sep-2016 07:29:17 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home1/zakhir/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7

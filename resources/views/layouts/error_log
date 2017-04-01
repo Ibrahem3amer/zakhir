@@ -1,0 +1,16 @@
+[13-Aug-2016 10:03:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Cat' not found in /home1/zakhir/public_html/resources/views/layouts/deso.balde.php:105
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/resources/views/layouts/deso.balde.php on line 105
+[13-Aug-2016 10:03:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home1/zakhir/public_html/resources/views/layouts/base.blade.php:74
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/resources/views/layouts/base.blade.php on line 74
+[13-Aug-2016 10:24:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Cat' not found in /home1/zakhir/public_html/resources/views/layouts/deso.balde.php:105
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/resources/views/layouts/deso.balde.php on line 105
+[13-Aug-2016 10:24:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home1/zakhir/public_html/resources/views/layouts/base.blade.php:74
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/resources/views/layouts/base.blade.php on line 74

@@ -1,0 +1,8 @@
+[12-Aug-2016 00:42:17 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home1/zakhir/public_html/app/Jobs/Job.php on line 20
+[13-Aug-2016 09:42:38 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home1/zakhir/public_html/app/Jobs/Job.php on line 20
+[13-Aug-2016 10:11:39 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home1/zakhir/public_html/app/Jobs/Job.php on line 20
+[18-Aug-2016 22:05:45 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home1/zakhir/public_html/app/Jobs/Job.php on line 20
+[22-Aug-2016 03:27:13 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home1/zakhir/public_html/app/Jobs/Job.php on line 20
+[01-Sep-2016 05:00:22 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home1/zakhir/public_html/app/Jobs/Job.php on line 20
+[11-Sep-2016 06:45:52 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home1/zakhir/public_html/app/Jobs/Job.php on line 20
+[11-Sep-2016 12:01:19 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home1/zakhir/public_html/app/Jobs/Job.php on line 20

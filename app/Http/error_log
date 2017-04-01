@@ -1,0 +1,39 @@
+[12-Aug-2016 01:01:18 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/zakhir/public_html/app/Http/Kernel.php on line 7
+[12-Aug-2016 01:01:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home1/zakhir/public_html/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/app/Http/routes.php on line 14
+[13-Aug-2016 09:42:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home1/zakhir/public_html/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/app/Http/routes.php on line 14
+[13-Aug-2016 09:42:39 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/zakhir/public_html/app/Http/Kernel.php on line 7
+[13-Aug-2016 10:11:48 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home1/zakhir/public_html/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/app/Http/routes.php on line 14
+[13-Aug-2016 10:11:48 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/zakhir/public_html/app/Http/Kernel.php on line 7
+[18-Aug-2016 22:05:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/zakhir/public_html/app/Http/Kernel.php on line 7
+[18-Aug-2016 22:05:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home1/zakhir/public_html/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/app/Http/routes.php on line 14
+[19-Aug-2016 14:09:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home1/zakhir/public_html/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/app/Http/routes.php on line 14
+[22-Aug-2016 03:39:34 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/zakhir/public_html/app/Http/Kernel.php on line 7
+[22-Aug-2016 03:39:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home1/zakhir/public_html/app/Http/routes.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/app/Http/routes.php on line 14
+[01-Sep-2016 05:19:58 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/zakhir/public_html/app/Http/Kernel.php on line 7
+[01-Sep-2016 05:20:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home1/zakhir/public_html/app/Http/routes.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/app/Http/routes.php on line 15
+[11-Sep-2016 06:58:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home1/zakhir/public_html/app/Http/routes.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/app/Http/routes.php on line 15
+[11-Sep-2016 06:58:12 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home1/zakhir/public_html/app/Http/Kernel.php on line 7

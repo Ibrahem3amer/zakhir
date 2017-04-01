@@ -3,6 +3,7 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
+use Carbon\carbon;
 
 class Product extends Model
 {
@@ -24,6 +25,11 @@ class Product extends Model
     {
         return $this->belongsTo('App\Order');
     }
+
+    public function days()
+    {
+       return Carbon::createFromTimestamp(strtotime($this->created_at))->diff(Carbon::now())->days;
+    } 
 
 
 }

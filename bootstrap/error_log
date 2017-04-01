@@ -1,0 +1,44 @@
+[12-Aug-2016 00:59:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14
+[13-Aug-2016 03:26:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14
+[13-Aug-2016 09:42:31 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14
+[13-Aug-2016 10:11:11 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14
+[13-Aug-2016 16:59:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14
+[14-Aug-2016 14:39:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14
+[22-Aug-2016 03:37:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14
+[01-Sep-2016 05:17:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14
+[04-Sep-2016 18:05:53 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14
+[10-Sep-2016 15:33:49 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14
+[11-Sep-2016 06:56:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home1/zakhir/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/bootstrap/app.php on line 14

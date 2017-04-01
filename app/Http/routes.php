@@ -11,21 +11,27 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-})->name('home');
+//Auth Admin
+Route::get('admin/login', 'AdminController@login');
+Route::post('admin/login', 'AdminController@plogin');
 
+//Page navigation
+Route::get('page/{id}', 'PagesController@grabPage');
 
-
-Route::controller('users', 'UsersController');
-
-Route::controller('pages', 'NavBarController');
+Route::group(['middleware' => ['auth']], function () {
+    Route::controller('cart', 'CartController');
+	Route::controller('order', 'OrdersController');
+	Route::controller('admin', 'AdminController');
+});
 
 Route::controller('media', 'MediaController');
 
 Route::controller('product', 'ProductsController');
 
-Route::controller('cart', 'CartController');
+Route::get('/', function () {return view('welcome');})->name('home');
 
-Route::controller('order', 'OrdersController');
+Route::controller('users', 'UsersController');
+
+Route::controller('pages', 'NavBarController');
+
 

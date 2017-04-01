@@ -1,0 +1,24 @@
+[12-Aug-2016 01:25:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Product' not found in /home1/zakhir/public_html/resources/views/welcome.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/resources/views/welcome.blade.php on line 14
+[13-Aug-2016 09:52:32 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Product' not found in /home1/zakhir/public_html/resources/views/welcome.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/resources/views/welcome.blade.php on line 14
+[13-Aug-2016 10:13:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Product' not found in /home1/zakhir/public_html/resources/views/welcome.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/resources/views/welcome.blade.php on line 14
+[22-Aug-2016 04:04:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Product' not found in /home1/zakhir/public_html/resources/views/welcome.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/resources/views/welcome.blade.php on line 14
+[01-Sep-2016 05:44:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Product' not found in /home1/zakhir/public_html/resources/views/welcome.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/resources/views/welcome.blade.php on line 14
+[11-Sep-2016 07:22:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'App\Product' not found in /home1/zakhir/public_html/resources/views/welcome.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/resources/views/welcome.blade.php on line 14

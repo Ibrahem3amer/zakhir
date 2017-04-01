@@ -28,7 +28,7 @@ class MediaController extends Controller
         if( !$id )
             return view('media.home');
         else{
-            $photos = \App\Photo::where('album_id', $id)->get();
+            $photos = \App\Photo::where('album_id', $id)->get()->sortByDesc('created_at');
             if( $photos ){
                 $cats = \App\Cat::all();
                 return view('media.album', compact('photos', 'cats')); //add extra loop on photos
@@ -83,7 +83,7 @@ class MediaController extends Controller
     	}
     }
 
-    public function getAlbums(Request $request)
+    public function getPhotos(Request $request)
     {
     	$q = intval( $request->get('q') );
     	$photos = \App\Photo::where('album_id', $q)->get();
@@ -92,5 +92,17 @@ class MediaController extends Controller
     	else 
     		return "null";
     }
+ 
+ 
+    public function getAlbums(Request $request)
+    {
+        $q = intval( $request->get('q') );
+        $photos = \App\Photo::where('album_id', $q)->get();
+        if( $photos )
+            return $photos;
+        else 
+            return "null";
+    }
+
 
 }

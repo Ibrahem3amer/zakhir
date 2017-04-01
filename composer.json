@@ -16,7 +16,8 @@
         "phpunit/phpunit": "~4.0",
         "symfony/css-selector": "2.8.*|3.0.*",
         "symfony/dom-crawler": "2.8.*|3.0.*",
-	"lavary/laravel-menu": "dev-master"
+	"lavary/laravel-menu": "dev-master",
+	"laravel/cashier": "~5.0"
     },
     "autoload": {
         "classmap": [

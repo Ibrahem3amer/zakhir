@@ -27,9 +27,10 @@
 
 			$('.remove').click(function(){
 				var prod_id = $('.prod_id').val();
+				var user_id = $('.user_id').val();
 				var thumb = $(this).closest('.thumbnail');
 				$.ajax({	
-					url: '/cart/remove/?id='+prod_id+'&user='+1,
+					url: '/public/cart/remove?id='+prod_id+'&user='+user_id,
 					success: function(){
 						console.log($(this));
 						thumb.find('.remove').hide();
@@ -38,7 +39,7 @@
 						thumb.fadeOut(1500);
 					},
 					error: function(){
-						console.log('fail');
+						alert('fail');
 					},
 				});
 			});
@@ -47,13 +48,13 @@
 				var prod_id = $('.prod_id').val();
 				var thumb = $(this).closest('.thumbnail');
 				$.ajax({
-					url: '/cart/towish/?id='+prod_id,
+					url: '/public/cart/towish?id='+prod_id,
 					success: function(){
 						console.log($(this));
 						thumb.find('.remove').hide();
 						thumb.find('.wishlist').hide();
 						thumb.find('.added').show();
-						thumb.fadeOut(1500);
+						thumb.fadeOut(1000);
 					},
 					error: function(){
 						console.log('fail');
