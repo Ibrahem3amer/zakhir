@@ -1,0 +1,8 @@
+[22-Aug-2016 03:44:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Blade' not found in /home1/zakhir/public_html/vendor/lavary/laravel-menu/src/Lavary/Menu/blade/lm-attrs.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/lavary/laravel-menu/src/Lavary/Menu/blade/lm-attrs.php on line 14
+[22-Aug-2016 05:13:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Blade' not found in /home1/zakhir/public_html/vendor/lavary/laravel-menu/src/Lavary/Menu/blade/lm-attrs.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/lavary/laravel-menu/src/Lavary/Menu/blade/lm-attrs.php on line 14

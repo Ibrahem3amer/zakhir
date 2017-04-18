@@ -1,0 +1,2 @@
+[14-Aug-2016 11:15:52 America/Chicago] PHP Fatal error:  Interface 'Swift_Mime_MimeEntity' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/fixtures/MimeEntityFixture.php on line 3
+[14-Aug-2016 17:33:25 America/Chicago] PHP Fatal error:  Interface 'Swift_Mime_MimeEntity' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/fixtures/MimeEntityFixture.php on line 3

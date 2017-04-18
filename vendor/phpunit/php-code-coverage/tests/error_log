@@ -1,0 +1,2 @@
+[13-Aug-2016 10:09:15 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/tests/TestCase.php on line 16
+[13-Aug-2016 10:37:24 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/tests/TestCase.php on line 16

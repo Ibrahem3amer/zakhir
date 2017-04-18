@@ -1,0 +1,2 @@
+[16-Aug-2016 19:31:57 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/TestDox/NamePrettifierTest.php on line 14
+[16-Aug-2016 20:16:14 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/TestDox/NamePrettifierTest.php on line 14

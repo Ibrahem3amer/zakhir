@@ -1,0 +1,4 @@
+[23-Aug-2016 05:02:45 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderLoaderTest.php on line 10
+[23-Aug-2016 06:48:15 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderLoaderTest.php on line 10
+[23-Aug-2016 11:54:11 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderTest.php on line 12
+[23-Aug-2016 13:31:54 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Builder/ServiceBuilderTest.php on line 12

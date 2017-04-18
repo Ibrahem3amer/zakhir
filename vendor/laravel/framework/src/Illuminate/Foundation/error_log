@@ -1,0 +1,2 @@
+[19-Aug-2016 04:14:38 America/Chicago] PHP Fatal error:  Class 'Illuminate\Container\Container' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 21
+[19-Aug-2016 05:08:12 America/Chicago] PHP Fatal error:  Class 'Illuminate\Container\Container' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 21

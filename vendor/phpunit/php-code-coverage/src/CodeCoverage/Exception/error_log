@@ -1,0 +1,2 @@
+[16-Aug-2016 22:13:49 America/Chicago] PHP Fatal error:  Class 'PHP_CodeCoverage_Exception' not found in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/src/CodeCoverage/Exception/UnintentionallyCoveredCode.php on line 16
+[16-Aug-2016 22:58:32 America/Chicago] PHP Fatal error:  Class 'PHP_CodeCoverage_Exception' not found in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/src/CodeCoverage/Exception/UnintentionallyCoveredCode.php on line 16

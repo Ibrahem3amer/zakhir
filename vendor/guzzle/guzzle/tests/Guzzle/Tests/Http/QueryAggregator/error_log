@@ -1,0 +1,6 @@
+[23-Aug-2016 11:52:44 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/QueryAggregator/PhpAggregatorTest.php on line 8
+[23-Aug-2016 13:06:40 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/QueryAggregator/CommaAggregatorTest.php on line 8
+[23-Aug-2016 13:14:07 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/QueryAggregator/DuplicateAggregatorTest.php on line 8
+[23-Aug-2016 13:36:15 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/QueryAggregator/PhpAggregatorTest.php on line 8
+[23-Aug-2016 14:46:01 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/QueryAggregator/CommaAggregatorTest.php on line 8
+[23-Aug-2016 14:53:38 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/QueryAggregator/DuplicateAggregatorTest.php on line 8

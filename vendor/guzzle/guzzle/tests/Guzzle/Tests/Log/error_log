@@ -1,0 +1,10 @@
+[19-Aug-2016 12:15:47 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Log/PsrLogAdapterTest.php on line 13
+[19-Aug-2016 13:22:57 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Log/PsrLogAdapterTest.php on line 13
+[19-Aug-2016 22:54:48 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Log/ArrayLogAdapterTest.php on line 7
+[20-Aug-2016 00:03:07 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Log/ArrayLogAdapterTest.php on line 7
+[20-Aug-2016 03:55:25 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Log/Zf2LogAdapterTest.php on line 12
+[20-Aug-2016 04:51:12 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Log/MessageFormatterTest.php on line 17
+[20-Aug-2016 04:59:30 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Log/Zf2LogAdapterTest.php on line 12
+[20-Aug-2016 05:53:45 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Log/MessageFormatterTest.php on line 17
+[21-Aug-2016 03:09:50 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Log/ClosureLogAdapterTest.php on line 10
+[21-Aug-2016 04:19:47 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Log/ClosureLogAdapterTest.php on line 10

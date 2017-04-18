@@ -1,0 +1,6 @@
+[18-Aug-2016 12:43:39 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 7
+[18-Aug-2016 13:17:12 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Pipeline' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 9
+[18-Aug-2016 13:17:48 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 7
+[18-Aug-2016 13:58:15 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Pipeline' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 9
+[19-Aug-2016 09:39:52 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Hub' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[19-Aug-2016 10:33:34 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Hub' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9

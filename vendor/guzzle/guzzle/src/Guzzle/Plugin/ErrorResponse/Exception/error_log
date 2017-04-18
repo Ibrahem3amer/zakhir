@@ -1,0 +1,2 @@
+[22-Aug-2016 22:18:00 America/Chicago] PHP Fatal error:  Class 'Guzzle\Common\Exception\RuntimeException' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/ErrorResponse/Exception/ErrorResponseException.php on line 7
+[22-Aug-2016 23:58:48 America/Chicago] PHP Fatal error:  Class 'Guzzle\Common\Exception\RuntimeException' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/ErrorResponse/Exception/ErrorResponseException.php on line 7

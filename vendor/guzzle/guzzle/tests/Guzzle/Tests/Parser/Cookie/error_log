@@ -1,0 +1,4 @@
+[22-Aug-2016 18:24:07 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Parser/Cookie/CookieParserProvider.php on line 10
+[22-Aug-2016 20:03:10 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Parser/Cookie/CookieParserProvider.php on line 10
+[23-Aug-2016 03:19:39 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\Parser\Cookie\CookieParserProvider' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Parser/Cookie/CookieParserTest.php on line 10
+[23-Aug-2016 05:03:05 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\Parser\Cookie\CookieParserProvider' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Parser/Cookie/CookieParserTest.php on line 10

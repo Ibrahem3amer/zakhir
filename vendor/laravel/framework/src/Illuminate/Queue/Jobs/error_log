@@ -1,0 +1,10 @@
+[20-Aug-2016 06:38:56 America/Chicago] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SyncJob.php on line 8
+[20-Aug-2016 07:51:58 America/Chicago] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SyncJob.php on line 8
+[20-Aug-2016 17:28:17 America/Chicago] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SqsJob.php on line 9
+[20-Aug-2016 18:25:57 America/Chicago] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SqsJob.php on line 9
+[20-Aug-2016 22:53:53 America/Chicago] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJob.php on line 9
+[21-Aug-2016 00:01:15 America/Chicago] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJob.php on line 9
+[21-Aug-2016 00:24:55 America/Chicago] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Queue/Jobs/BeanstalkdJob.php on line 10
+[21-Aug-2016 01:33:48 America/Chicago] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Queue/Jobs/BeanstalkdJob.php on line 10
+[22-Aug-2016 04:29:27 America/Chicago] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Queue/Jobs/RedisJob.php on line 10
+[22-Aug-2016 06:01:32 America/Chicago] PHP Fatal error:  Class 'Illuminate\Queue\Jobs\Job' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Queue/Jobs/RedisJob.php on line 10

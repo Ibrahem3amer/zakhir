@@ -1,0 +1,10 @@
+[19-Aug-2016 15:42:22 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Iterator/AppendIteratorTest.php on line 10
+[19-Aug-2016 16:39:39 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Iterator/AppendIteratorTest.php on line 10
+[21-Aug-2016 00:13:49 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Iterator/ChunkedIteratorTest.php on line 10
+[21-Aug-2016 01:26:03 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Iterator/ChunkedIteratorTest.php on line 10
+[21-Aug-2016 15:33:57 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Iterator/MethodProxyIteratorTest.php on line 11
+[21-Aug-2016 17:08:22 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Iterator/MethodProxyIteratorTest.php on line 11
+[22-Aug-2016 03:05:35 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Iterator/FilterIteratorTest.php on line 10
+[22-Aug-2016 04:01:51 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Iterator/MapIteratorTest.php on line 10
+[22-Aug-2016 04:44:42 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Iterator/FilterIteratorTest.php on line 10
+[22-Aug-2016 05:33:31 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Iterator/MapIteratorTest.php on line 10

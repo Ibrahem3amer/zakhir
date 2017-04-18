@@ -1,0 +1,4 @@
+[19-Aug-2016 18:53:46 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Auth/Console/MakeAuthCommand.php on line 8
+[19-Aug-2016 19:53:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Auth/Console/MakeAuthCommand.php on line 8
+[19-Aug-2016 23:48:22 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php on line 7
+[20-Aug-2016 00:46:26 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php on line 7

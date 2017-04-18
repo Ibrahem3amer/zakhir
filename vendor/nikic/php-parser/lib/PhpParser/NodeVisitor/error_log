@@ -1,0 +1,2 @@
+[17-Aug-2016 23:09:05 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php on line 13
+[17-Aug-2016 23:51:43 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php on line 13

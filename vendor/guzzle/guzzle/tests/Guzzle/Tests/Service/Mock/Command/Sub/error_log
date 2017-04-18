@@ -1,0 +1,2 @@
+[23-Aug-2016 22:50:42 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\Service\Mock\Command\MockCommand' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Mock/Command/Sub/Sub.php on line 7
+[24-Aug-2016 00:40:32 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\Service\Mock\Command\MockCommand' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Mock/Command/Sub/Sub.php on line 7

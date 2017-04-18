@@ -1,0 +1,14 @@
+[17-Aug-2016 17:59:04 America/Chicago] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/Zf1CacheAdapter.php on line 14
+[17-Aug-2016 18:53:36 America/Chicago] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/Zf1CacheAdapter.php on line 14
+[18-Aug-2016 01:28:57 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Cache\CacheAdapterInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/ClosureCacheAdapter.php on line 8
+[18-Aug-2016 01:41:25 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Cache\CacheAdapterInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/ClosureCacheAdapter.php on line 8
+[18-Aug-2016 06:44:58 America/Chicago] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/Zf2CacheAdapter.php on line 12
+[18-Aug-2016 07:02:11 America/Chicago] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/Zf2CacheAdapter.php on line 12
+[18-Aug-2016 18:28:24 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Common\FromConfigInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/CacheAdapterFactory.php on line 15
+[18-Aug-2016 19:28:34 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Common\FromConfigInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/CacheAdapterFactory.php on line 15
+[19-Aug-2016 03:54:20 America/Chicago] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/NullCacheAdapter.php on line 8
+[19-Aug-2016 05:00:18 America/Chicago] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/NullCacheAdapter.php on line 8
+[19-Aug-2016 06:03:48 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Cache\CacheAdapterInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/AbstractCacheAdapter.php on line 8
+[19-Aug-2016 06:46:48 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Cache\CacheAdapterInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/AbstractCacheAdapter.php on line 8
+[19-Aug-2016 10:15:14 America/Chicago] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/DoctrineCacheAdapter.php on line 12
+[19-Aug-2016 11:12:36 America/Chicago] PHP Fatal error:  Class 'Guzzle\Cache\AbstractCacheAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Cache/DoctrineCacheAdapter.php on line 12

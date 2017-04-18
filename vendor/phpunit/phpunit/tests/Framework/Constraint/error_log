@@ -1,0 +1,8 @@
+[16-Aug-2016 14:38:46 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Framework/Constraint/JsonMatchesTest.php on line 14
+[16-Aug-2016 15:14:59 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Framework/Constraint/ExceptionMessageTest.php on line 15
+[16-Aug-2016 15:17:03 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Framework/Constraint/JsonMatchesTest.php on line 14
+[16-Aug-2016 15:50:30 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Framework/Constraint/ExceptionMessageTest.php on line 15
+[17-Aug-2016 04:01:07 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Framework/Constraint/CountTest.php on line 15
+[17-Aug-2016 04:50:44 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Framework/Constraint/CountTest.php on line 15
+[18-Aug-2016 15:47:45 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Framework/Constraint/ExceptionMessageRegExpTest.php on line 15
+[18-Aug-2016 16:33:55 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Framework/Constraint/ExceptionMessageRegExpTest.php on line 15

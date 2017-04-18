@@ -1,0 +1,2 @@
+[19-Aug-2016 06:22:23 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/test/PhpParser/NodeVisitor/NameResolverTest.php on line 11
+[19-Aug-2016 07:12:17 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/test/PhpParser/NodeVisitor/NameResolverTest.php on line 11

@@ -1,0 +1,4 @@
+[19-Aug-2016 14:40:29 America/Chicago] PHP Fatal error:  Interface 'PHPUnit_Framework_MockObject_Invocation' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/Invocation/Static.php on line 18
+[19-Aug-2016 15:36:28 America/Chicago] PHP Fatal error:  Interface 'PHPUnit_Framework_MockObject_Invocation' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/Invocation/Static.php on line 18
+[21-Aug-2016 08:01:09 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_MockObject_Invocation_Static' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/Invocation/Object.php on line 16
+[21-Aug-2016 09:09:21 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_MockObject_Invocation_Static' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/Invocation/Object.php on line 16

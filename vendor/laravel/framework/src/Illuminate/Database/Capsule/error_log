@@ -1,0 +1,2 @@
+[21-Aug-2016 19:13:31 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Support\Traits\CapsuleManagerTrait' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 15
+[21-Aug-2016 20:43:35 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Support\Traits\CapsuleManagerTrait' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Database/Capsule/Manager.php on line 15

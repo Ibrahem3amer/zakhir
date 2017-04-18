@@ -1,0 +1,2 @@
+[13-Aug-2016 19:22:44 America/Chicago] PHP Fatal error:  Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home1/zakhir/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 16
+[14-Aug-2016 02:34:34 America/Chicago] PHP Fatal error:  Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home1/zakhir/public_html/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 16

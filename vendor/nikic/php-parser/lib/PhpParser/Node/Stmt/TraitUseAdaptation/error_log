@@ -1,0 +1,4 @@
+[23-Aug-2016 00:08:09 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Stmt\TraitUseAdaptation' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[23-Aug-2016 01:44:13 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Stmt\TraitUseAdaptation' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[23-Aug-2016 12:35:34 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Stmt\TraitUseAdaptation' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[23-Aug-2016 14:15:11 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Stmt\TraitUseAdaptation' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7

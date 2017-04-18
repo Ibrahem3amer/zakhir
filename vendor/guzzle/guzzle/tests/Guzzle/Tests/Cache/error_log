@@ -1,0 +1,10 @@
+[19-Aug-2016 20:46:54 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Cache/NullCacheAdapterTest.php on line 10
+[19-Aug-2016 21:53:38 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Cache/NullCacheAdapterTest.php on line 10
+[20-Aug-2016 08:56:04 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Cache/ClosureCacheAdapterTest.php on line 10
+[20-Aug-2016 10:03:20 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Cache/ClosureCacheAdapterTest.php on line 10
+[20-Aug-2016 13:41:12 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Cache/Zf2CacheAdapterTest.php on line 11
+[20-Aug-2016 14:54:15 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Cache/Zf2CacheAdapterTest.php on line 11
+[21-Aug-2016 11:41:14 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Cache/CacheAdapterTest.php on line 12
+[21-Aug-2016 12:50:48 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Cache/CacheAdapterTest.php on line 12
+[21-Aug-2016 13:44:56 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Cache/CacheAdapterFactoryTest.php on line 13
+[21-Aug-2016 15:18:38 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Cache/CacheAdapterFactoryTest.php on line 13

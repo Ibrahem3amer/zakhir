@@ -1,0 +1,4 @@
+[16-Aug-2016 21:44:42 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\Container' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 15
+[16-Aug-2016 22:29:09 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\Container' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 15
+[17-Aug-2016 09:17:59 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\ContextualBindingBuilder' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 7
+[17-Aug-2016 10:09:15 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\ContextualBindingBuilder' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 7

@@ -1,0 +1,2 @@
+[13-Aug-2016 13:21:00 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/Facades/Socialite.php on line 10
+[13-Aug-2016 20:23:33 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/Facades/Socialite.php on line 10

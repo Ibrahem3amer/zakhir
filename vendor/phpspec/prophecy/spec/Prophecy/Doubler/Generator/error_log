@@ -1,0 +1,6 @@
+[21-Aug-2016 01:11:22 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Doubler/Generator/ClassCodeGeneratorSpec.php on line 7
+[21-Aug-2016 02:13:00 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Doubler/Generator/ClassMirrorSpec.php on line 11
+[21-Aug-2016 02:17:50 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Doubler/Generator/ClassCodeGeneratorSpec.php on line 7
+[21-Aug-2016 03:22:56 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Doubler/Generator/ClassMirrorSpec.php on line 11
+[21-Aug-2016 22:05:05 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Doubler/Generator/ClassCreatorSpec.php on line 7
+[21-Aug-2016 23:33:58 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Doubler/Generator/ClassCreatorSpec.php on line 7

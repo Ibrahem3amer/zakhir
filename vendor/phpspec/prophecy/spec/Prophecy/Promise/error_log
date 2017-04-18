@@ -1,0 +1,8 @@
+[16-Aug-2016 12:14:14 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnPromiseSpec.php on line 7
+[16-Aug-2016 12:48:45 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnPromiseSpec.php on line 7
+[17-Aug-2016 01:38:15 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Promise/ThrowPromiseSpec.php on line 7
+[17-Aug-2016 02:24:34 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Promise/ThrowPromiseSpec.php on line 7
+[17-Aug-2016 09:45:53 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Promise/CallbackPromiseSpec.php on line 7
+[17-Aug-2016 10:39:12 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Promise/CallbackPromiseSpec.php on line 7
+[17-Aug-2016 19:11:12 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnArgumentPromiseSpec.php on line 7
+[17-Aug-2016 20:06:45 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Promise/ReturnArgumentPromiseSpec.php on line 7

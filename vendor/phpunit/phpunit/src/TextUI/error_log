@@ -1,0 +1,4 @@
+[14-Aug-2016 19:06:06 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/TextUI/ResultPrinter.php on line 18
+[15-Aug-2016 01:23:44 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/TextUI/ResultPrinter.php on line 18
+[15-Aug-2016 13:12:50 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Runner_BaseTestRunner' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/TextUI/TestRunner.php on line 19
+[15-Aug-2016 18:23:33 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Runner_BaseTestRunner' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/TextUI/TestRunner.php on line 19

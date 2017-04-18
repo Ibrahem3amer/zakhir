@@ -1,0 +1,2 @@
+[23-Aug-2016 04:07:58 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Plugin/History/HistoryPluginTest.php on line 14
+[23-Aug-2016 05:54:04 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Plugin/History/HistoryPluginTest.php on line 14

@@ -1,0 +1,4 @@
+[19-Aug-2016 17:35:44 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_TestDox_ResultPrinter' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/HTML.php on line 16
+[19-Aug-2016 18:37:01 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_TestDox_ResultPrinter' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/HTML.php on line 16
+[20-Aug-2016 03:12:43 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_TestDox_ResultPrinter' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/Text.php on line 16
+[20-Aug-2016 04:02:08 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_TestDox_ResultPrinter' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/Text.php on line 16

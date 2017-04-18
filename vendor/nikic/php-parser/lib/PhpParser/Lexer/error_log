@@ -1,0 +1,2 @@
+[17-Aug-2016 13:28:25 America/Chicago] PHP Fatal error:  Class 'PhpParser\Lexer' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php on line 10
+[17-Aug-2016 14:24:13 America/Chicago] PHP Fatal error:  Class 'PhpParser\Lexer' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php on line 10

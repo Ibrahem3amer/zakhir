@@ -1,0 +1,6 @@
+[22-Aug-2016 11:42:28 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/ContentEncoder/QpContentEncoderTest.php on line 3
+[22-Aug-2016 13:32:03 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/ContentEncoder/QpContentEncoderTest.php on line 3
+[23-Aug-2016 01:05:34 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/ContentEncoder/PlainContentEncoderTest.php on line 3
+[23-Aug-2016 02:44:00 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/ContentEncoder/PlainContentEncoderTest.php on line 3
+[23-Aug-2016 12:31:04 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/ContentEncoder/Base64ContentEncoderTest.php on line 3
+[23-Aug-2016 14:12:22 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Mime/ContentEncoder/Base64ContentEncoderTest.php on line 3

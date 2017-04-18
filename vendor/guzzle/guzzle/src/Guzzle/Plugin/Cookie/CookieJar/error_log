@@ -1,0 +1,4 @@
+[22-Aug-2016 10:03:28 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Plugin\Cookie\CookieJar\CookieJarInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Cookie/CookieJar/ArrayCookieJar.php on line 14
+[22-Aug-2016 11:43:34 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Plugin\Cookie\CookieJar\CookieJarInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Cookie/CookieJar/ArrayCookieJar.php on line 14
+[23-Aug-2016 06:34:12 America/Chicago] PHP Fatal error:  Class 'Guzzle\Plugin\Cookie\CookieJar\ArrayCookieJar' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Cookie/CookieJar/FileCookieJar.php on line 10
+[23-Aug-2016 08:18:41 America/Chicago] PHP Fatal error:  Class 'Guzzle\Plugin\Cookie\CookieJar\ArrayCookieJar' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Cookie/CookieJar/FileCookieJar.php on line 10

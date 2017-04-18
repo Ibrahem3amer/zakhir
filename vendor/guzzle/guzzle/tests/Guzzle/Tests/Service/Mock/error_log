@@ -1,0 +1,2 @@
+[23-Aug-2016 08:10:56 America/Chicago] PHP Fatal error:  Class 'Guzzle\Service\Client' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Mock/MockClient.php on line 11
+[23-Aug-2016 09:53:49 America/Chicago] PHP Fatal error:  Class 'Guzzle\Service\Client' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Mock/MockClient.php on line 11

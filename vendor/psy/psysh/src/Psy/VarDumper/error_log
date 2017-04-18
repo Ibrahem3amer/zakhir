@@ -1,0 +1,4 @@
+[17-Aug-2016 20:23:06 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\VarCloner' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/VarDumper/Cloner.php on line 21
+[17-Aug-2016 21:25:19 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Cloner\VarCloner' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/VarDumper/Cloner.php on line 21
+[19-Aug-2016 11:27:47 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Dumper\CliDumper' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/VarDumper/Dumper.php on line 21
+[19-Aug-2016 12:31:28 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Dumper\CliDumper' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/VarDumper/Dumper.php on line 21

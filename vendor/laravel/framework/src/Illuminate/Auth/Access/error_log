@@ -1,0 +1,2 @@
+[21-Aug-2016 12:41:25 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Auth\Access\HandlesAuthorization' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 12
+[21-Aug-2016 13:47:48 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Auth\Access\HandlesAuthorization' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 12

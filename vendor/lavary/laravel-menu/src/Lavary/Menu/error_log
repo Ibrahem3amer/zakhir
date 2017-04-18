@@ -1,0 +1,6 @@
+[16-Aug-2016 21:01:56 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Collection' not found in /home1/zakhir/public_html/vendor/lavary/laravel-menu/src/Lavary/Menu/Collection.php on line 5
+[16-Aug-2016 21:50:29 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Collection' not found in /home1/zakhir/public_html/vendor/lavary/laravel-menu/src/Lavary/Menu/Collection.php on line 5
+[18-Aug-2016 15:11:21 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home1/zakhir/public_html/vendor/lavary/laravel-menu/src/Lavary/Menu/Facade.php on line 5
+[18-Aug-2016 15:54:03 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home1/zakhir/public_html/vendor/lavary/laravel-menu/src/Lavary/Menu/Facade.php on line 5
+[19-Aug-2016 01:43:42 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/lavary/laravel-menu/src/Lavary/Menu/ServiceProvider.php on line 5
+[19-Aug-2016 02:42:22 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/lavary/laravel-menu/src/Lavary/Menu/ServiceProvider.php on line 5

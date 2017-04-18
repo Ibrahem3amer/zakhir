@@ -1,0 +1,8 @@
+[13-Aug-2016 10:06:52 America/Chicago] PHP Fatal error:  Uncaught Exception: Please run "php composer.phar install --dev" in root directory to setup unit test dependencies before running the tests in /home1/zakhir/public_html/vendor/mockery/mockery/tests/Bootstrap.php:39
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/mockery/mockery/tests/Bootstrap.php on line 39
+[13-Aug-2016 10:33:59 America/Chicago] PHP Fatal error:  Uncaught Exception: Please run "php composer.phar install --dev" in root directory to setup unit test dependencies before running the tests in /home1/zakhir/public_html/vendor/mockery/mockery/tests/Bootstrap.php:39
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/mockery/mockery/tests/Bootstrap.php on line 39

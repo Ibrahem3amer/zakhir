@@ -1,0 +1,6 @@
+[16-Aug-2016 13:52:19 America/Chicago] PHP Fatal error:  Class 'Mockery\CountValidator\Exception' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidCountException.php on line 26
+[16-Aug-2016 14:26:31 America/Chicago] PHP Fatal error:  Class 'Mockery\CountValidator\Exception' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidCountException.php on line 26
+[18-Aug-2016 00:44:30 America/Chicago] PHP Fatal error:  Class 'Mockery\Exception' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Exception/NoMatchingExpectationException.php on line 25
+[18-Aug-2016 01:23:06 America/Chicago] PHP Fatal error:  Class 'Mockery\Exception' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Exception/NoMatchingExpectationException.php on line 25
+[19-Aug-2016 04:37:55 America/Chicago] PHP Fatal error:  Class 'Mockery\Exception' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidOrderException.php on line 25
+[19-Aug-2016 05:33:38 America/Chicago] PHP Fatal error:  Class 'Mockery\Exception' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidOrderException.php on line 25

@@ -1,0 +1,4 @@
+[16-Aug-2016 12:31:20 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastServiceProvider.php on line 7
+[16-Aug-2016 13:04:33 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastServiceProvider.php on line 7
+[17-Aug-2016 09:17:59 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Broadcasting\Factory' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastManager.php on line 14
+[17-Aug-2016 10:06:32 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Broadcasting\Factory' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastManager.php on line 14

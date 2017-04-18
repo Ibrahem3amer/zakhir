@@ -1,0 +1,2 @@
+[23-Aug-2016 04:12:49 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Plugin/Oauth/OauthPluginTest.php on line 12
+[23-Aug-2016 06:07:40 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Plugin/Oauth/OauthPluginTest.php on line 12

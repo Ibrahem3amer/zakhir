@@ -1,0 +1,2 @@
+[23-Aug-2016 10:28:09 America/Chicago] PHP Fatal error:  Class 'Swift_IoException' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Pop/Pop3Exception.php on line 16
+[23-Aug-2016 11:53:32 America/Chicago] PHP Fatal error:  Class 'Swift_IoException' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Pop/Pop3Exception.php on line 16

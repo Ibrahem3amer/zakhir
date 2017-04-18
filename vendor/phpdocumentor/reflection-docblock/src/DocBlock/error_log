@@ -1,0 +1,2 @@
+[15-Aug-2016 02:25:17 America/Chicago] PHP Fatal error:  Interface 'phpDocumentor\Reflection\DocBlock\TagFactory' not found in /home1/zakhir/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/StandardTagFactory.php on line 38
+[15-Aug-2016 08:33:33 America/Chicago] PHP Fatal error:  Interface 'phpDocumentor\Reflection\DocBlock\TagFactory' not found in /home1/zakhir/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/StandardTagFactory.php on line 38

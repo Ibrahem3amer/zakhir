@@ -1,0 +1,2 @@
+[22-Aug-2016 05:53:07 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Async/AsyncPlugin.php on line 13
+[22-Aug-2016 07:23:05 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Async/AsyncPlugin.php on line 13

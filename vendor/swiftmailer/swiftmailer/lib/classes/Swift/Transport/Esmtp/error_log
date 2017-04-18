@@ -1,0 +1,2 @@
+[23-Aug-2016 04:46:36 America/Chicago] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 16
+[23-Aug-2016 06:28:58 America/Chicago] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 16

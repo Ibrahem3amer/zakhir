@@ -1,0 +1,4 @@
+[22-Aug-2016 09:19:10 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Common/Exception/ExceptionCollectionTest.php on line 7
+[22-Aug-2016 10:53:27 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Common/Exception/ExceptionCollectionTest.php on line 7
+[23-Aug-2016 05:30:04 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Common/Exception/BatchTransferExceptionTest.php on line 7
+[23-Aug-2016 07:14:07 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Common/Exception/BatchTransferExceptionTest.php on line 7

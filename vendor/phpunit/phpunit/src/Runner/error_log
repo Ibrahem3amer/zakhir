@@ -1,0 +1,4 @@
+[14-Aug-2016 08:56:59 America/Chicago] PHP Fatal error:  Interface 'PHPUnit_Exception' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Runner/Exception.php on line 14
+[14-Aug-2016 10:00:37 America/Chicago] PHP Fatal error:  Interface 'PHPUnit_Runner_TestSuiteLoader' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Runner/StandardTestSuiteLoader.php on line 16
+[14-Aug-2016 15:33:31 America/Chicago] PHP Fatal error:  Interface 'PHPUnit_Exception' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Runner/Exception.php on line 14
+[14-Aug-2016 16:23:34 America/Chicago] PHP Fatal error:  Interface 'PHPUnit_Runner_TestSuiteLoader' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Runner/StandardTestSuiteLoader.php on line 16

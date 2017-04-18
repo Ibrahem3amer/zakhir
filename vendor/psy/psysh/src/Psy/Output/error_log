@@ -1,0 +1,8 @@
+[16-Aug-2016 18:23:19 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Output/ProcOutputPager.php on line 24
+[16-Aug-2016 19:05:17 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Output/ProcOutputPager.php on line 24
+[17-Aug-2016 08:57:36 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Output/ShellOutput.php on line 21
+[17-Aug-2016 09:48:01 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Output/ShellOutput.php on line 21
+[18-Aug-2016 02:09:36 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Output/PassthruPager.php on line 20
+[18-Aug-2016 02:10:30 America/Chicago] PHP Fatal error:  Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Output/PassthruPager.php on line 20
+[18-Aug-2016 14:08:54 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Output/OutputPager.php on line 20
+[18-Aug-2016 14:44:31 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Output/OutputPager.php on line 20

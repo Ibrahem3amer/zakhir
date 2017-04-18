@@ -1,0 +1,2 @@
+[17-Aug-2016 02:48:19 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Logging\Log' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 20
+[17-Aug-2016 03:32:58 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Logging\Log' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 20

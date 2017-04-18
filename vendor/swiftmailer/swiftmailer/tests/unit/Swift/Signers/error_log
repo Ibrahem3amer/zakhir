@@ -1,0 +1,6 @@
+[20-Aug-2016 09:35:18 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Signers/OpenDKIMSignerTest.php on line 6
+[20-Aug-2016 10:50:59 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Signers/OpenDKIMSignerTest.php on line 6
+[20-Aug-2016 20:48:27 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Signers/SMimeSignerTest.php on line 3
+[20-Aug-2016 21:48:16 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Signers/SMimeSignerTest.php on line 3
+[21-Aug-2016 10:32:51 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Signers/DKIMSignerTest.php on line 3
+[21-Aug-2016 11:38:40 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Signers/DKIMSignerTest.php on line 3

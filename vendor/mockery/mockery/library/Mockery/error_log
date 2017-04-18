@@ -1,0 +1,8 @@
+[14-Aug-2016 02:00:44 America/Chicago] PHP Fatal error:  Class 'Mockery\Expectation' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 5
+[14-Aug-2016 04:34:40 America/Chicago] PHP Fatal error:  Interface 'Mockery\ExpectationInterface' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[14-Aug-2016 09:03:37 America/Chicago] PHP Fatal error:  Class 'Mockery\Expectation' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 5
+[14-Aug-2016 09:26:31 America/Chicago] PHP Fatal error:  Interface 'Mockery\ExpectationInterface' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Expectation.php on line 23
+[14-Aug-2016 11:48:52 America/Chicago] PHP Fatal error:  Interface 'Mockery\ExpectationInterface' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[14-Aug-2016 15:43:27 America/Chicago] PHP Fatal error:  Interface 'Mockery\ExpectationInterface' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Expectation.php on line 23
+[15-Aug-2016 02:12:20 America/Chicago] PHP Fatal error:  Interface 'Mockery\MockInterface' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Mock.php on line 25
+[15-Aug-2016 08:25:40 America/Chicago] PHP Fatal error:  Interface 'Mockery\MockInterface' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Mock.php on line 25

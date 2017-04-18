@@ -1,0 +1,4 @@
+[16-Aug-2016 15:23:54 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Calculator/LuhnTest.php on line 7
+[16-Aug-2016 16:05:28 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Calculator/LuhnTest.php on line 7
+[18-Aug-2016 17:04:44 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Calculator/IbanTest.php on line 7
+[18-Aug-2016 17:55:22 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Calculator/IbanTest.php on line 7

@@ -1,0 +1,2 @@
+[23-Aug-2016 03:54:31 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Plugin/Async/AsyncPluginTest.php on line 16
+[23-Aug-2016 05:36:37 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Plugin/Async/AsyncPluginTest.php on line 16

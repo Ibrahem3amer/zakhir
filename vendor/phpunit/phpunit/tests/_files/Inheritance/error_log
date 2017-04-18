@@ -1,0 +1,4 @@
+[22-Aug-2016 16:19:04 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/_files/Inheritance/InheritanceB.php on line 3
+[22-Aug-2016 18:10:46 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/_files/Inheritance/InheritanceB.php on line 3
+[23-Aug-2016 13:34:30 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/_files/Inheritance/InheritanceB.php on line 3
+[23-Aug-2016 15:18:11 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/_files/Inheritance/InheritanceB.php on line 3

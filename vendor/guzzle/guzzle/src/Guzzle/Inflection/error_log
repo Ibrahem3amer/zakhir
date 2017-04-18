@@ -1,0 +1,6 @@
+[18-Aug-2016 02:48:59 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Inflection\InflectorInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Inflection/PreComputedInflector.php on line 8
+[18-Aug-2016 03:01:36 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Inflection\InflectorInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Inflection/PreComputedInflector.php on line 8
+[18-Aug-2016 12:46:17 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Inflection\InflectorInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Inflection/MemoizingInflector.php on line 8
+[18-Aug-2016 13:22:17 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Inflection\InflectorInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Inflection/MemoizingInflector.php on line 8
+[19-Aug-2016 01:25:51 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Inflection\InflectorInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Inflection/Inflector.php on line 8
+[19-Aug-2016 02:23:49 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Inflection\InflectorInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Inflection/Inflector.php on line 8

@@ -1,0 +1,10 @@
+[22-Aug-2016 12:43:33 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Curl/RequestMediatorTest.php on line 13
+[22-Aug-2016 14:26:35 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Curl/RequestMediatorTest.php on line 13
+[22-Aug-2016 23:32:39 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Curl/CurlHandleTest.php on line 18
+[23-Aug-2016 01:20:38 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Curl/CurlHandleTest.php on line 18
+[23-Aug-2016 01:30:08 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Curl/CurlMultiProxyTest.php on line 13
+[23-Aug-2016 03:12:18 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Curl/CurlMultiProxyTest.php on line 13
+[23-Aug-2016 09:36:35 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Curl/CurlVersionTest.php on line 10
+[23-Aug-2016 11:17:52 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Curl/CurlVersionTest.php on line 10
+[23-Aug-2016 15:12:57 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Curl/CurlMultiTest.php on line 20
+[23-Aug-2016 16:53:11 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Curl/CurlMultiTest.php on line 20

@@ -1,0 +1,2 @@
+[19-Aug-2016 06:22:22 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 12
+[19-Aug-2016 07:21:39 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 12

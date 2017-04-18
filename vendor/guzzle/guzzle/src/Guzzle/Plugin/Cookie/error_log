@@ -1,0 +1,4 @@
+[20-Aug-2016 13:37:44 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Cookie/CookiePlugin.php on line 13
+[20-Aug-2016 14:47:15 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Cookie/CookiePlugin.php on line 13
+[21-Aug-2016 04:35:50 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Common\ToArrayInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Cookie/Cookie.php on line 10
+[21-Aug-2016 05:47:47 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Common\ToArrayInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Cookie/Cookie.php on line 10

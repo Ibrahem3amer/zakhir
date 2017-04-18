@@ -1,0 +1,6 @@
+[16-Aug-2016 10:33:41 America/Chicago] PHP Fatal error:  Class 'League\OAuth1\Client\Signature\Signature' not found in /home1/zakhir/public_html/vendor/league/oauth1-client/src/Client/Signature/PlainTextSignature.php on line 5
+[16-Aug-2016 11:12:48 America/Chicago] PHP Fatal error:  Class 'League\OAuth1\Client\Signature\Signature' not found in /home1/zakhir/public_html/vendor/league/oauth1-client/src/Client/Signature/PlainTextSignature.php on line 5
+[18-Aug-2016 07:23:01 America/Chicago] PHP Fatal error:  Interface 'League\OAuth1\Client\Signature\SignatureInterface' not found in /home1/zakhir/public_html/vendor/league/oauth1-client/src/Client/Signature/Signature.php on line 8
+[18-Aug-2016 07:29:37 America/Chicago] PHP Fatal error:  Interface 'League\OAuth1\Client\Signature\SignatureInterface' not found in /home1/zakhir/public_html/vendor/league/oauth1-client/src/Client/Signature/Signature.php on line 8
+[19-Aug-2016 03:47:07 America/Chicago] PHP Fatal error:  Class 'League\OAuth1\Client\Signature\Signature' not found in /home1/zakhir/public_html/vendor/league/oauth1-client/src/Client/Signature/HmacSha1Signature.php on line 7
+[19-Aug-2016 04:44:47 America/Chicago] PHP Fatal error:  Class 'League\OAuth1\Client\Signature\Signature' not found in /home1/zakhir/public_html/vendor/league/oauth1-client/src/Client/Signature/HmacSha1Signature.php on line 7

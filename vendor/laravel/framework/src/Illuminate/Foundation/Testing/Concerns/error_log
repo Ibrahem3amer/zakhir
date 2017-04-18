@@ -1,0 +1,2 @@
+[23-Aug-2016 06:53:35 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Foundation\Testing\Concerns\InteractsWithPages' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MakesHttpRequests.php on line 15
+[23-Aug-2016 08:43:13 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Foundation\Testing\Concerns\InteractsWithPages' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MakesHttpRequests.php on line 15

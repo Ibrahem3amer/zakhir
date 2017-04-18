@@ -1,0 +1,8 @@
+[13-Aug-2016 11:11:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setRuntimeDir() on null in /home1/zakhir/public_html/vendor/psy/psysh/test/fixtures/config.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/psy/psysh/test/fixtures/config.php on line 12
+[13-Aug-2016 17:53:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function setRuntimeDir() on null in /home1/zakhir/public_html/vendor/psy/psysh/test/fixtures/config.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/psy/psysh/test/fixtures/config.php on line 12

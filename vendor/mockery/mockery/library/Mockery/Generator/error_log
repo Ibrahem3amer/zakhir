@@ -1,0 +1,4 @@
+[16-Aug-2016 23:29:01 America/Chicago] PHP Fatal error:  Interface 'Mockery\Generator\Generator' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Generator/StringManipulationGenerator.php on line 7
+[17-Aug-2016 00:12:33 America/Chicago] PHP Fatal error:  Interface 'Mockery\Generator\Generator' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Generator/StringManipulationGenerator.php on line 7
+[19-Aug-2016 00:13:20 America/Chicago] PHP Fatal error:  Interface 'Mockery\Generator\Generator' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Generator/CachingGenerator.php on line 5
+[19-Aug-2016 01:15:56 America/Chicago] PHP Fatal error:  Interface 'Mockery\Generator\Generator' not found in /home1/zakhir/public_html/vendor/mockery/mockery/library/Mockery/Generator/CachingGenerator.php on line 5

@@ -1,0 +1,2 @@
+[20-Aug-2016 05:40:56 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 16
+[20-Aug-2016 06:51:21 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 16

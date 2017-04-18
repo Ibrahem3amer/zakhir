@@ -1,0 +1,2 @@
+[20-Aug-2016 20:01:42 America/Chicago] PHP Fatal error:  Class 'Guzzle\Common\AbstractHasDispatcher' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Mock/MockPlugin.php on line 17
+[20-Aug-2016 20:55:20 America/Chicago] PHP Fatal error:  Class 'Guzzle\Common\AbstractHasDispatcher' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Mock/MockPlugin.php on line 17

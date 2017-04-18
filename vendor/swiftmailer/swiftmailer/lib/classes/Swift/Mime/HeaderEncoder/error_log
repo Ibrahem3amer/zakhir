@@ -1,0 +1,4 @@
+[23-Aug-2016 07:05:16 America/Chicago] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php on line 16
+[23-Aug-2016 08:47:45 America/Chicago] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php on line 16
+[23-Aug-2016 16:24:02 America/Chicago] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php on line 16
+[23-Aug-2016 18:03:37 America/Chicago] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php on line 16

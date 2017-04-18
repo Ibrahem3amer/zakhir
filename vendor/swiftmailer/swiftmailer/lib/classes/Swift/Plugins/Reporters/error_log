@@ -1,0 +1,4 @@
+[22-Aug-2016 12:27:58 America/Chicago] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 16
+[22-Aug-2016 14:09:10 America/Chicago] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 16
+[23-Aug-2016 03:35:15 America/Chicago] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 16
+[23-Aug-2016 05:16:15 America/Chicago] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 16

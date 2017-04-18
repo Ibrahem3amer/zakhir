@@ -1,0 +1,2 @@
+[21-Aug-2016 02:53:05 America/Chicago] PHP Fatal error:  Interface 'phpDocumentor\Reflection\DocBlock\Tags\Formatter' not found in /home1/zakhir/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Formatter/PassthroughFormatter.php on line 18
+[21-Aug-2016 04:09:12 America/Chicago] PHP Fatal error:  Interface 'phpDocumentor\Reflection\DocBlock\Tags\Formatter' not found in /home1/zakhir/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Formatter/PassthroughFormatter.php on line 18

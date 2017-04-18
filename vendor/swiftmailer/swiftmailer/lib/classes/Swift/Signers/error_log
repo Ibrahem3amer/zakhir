@@ -1,0 +1,12 @@
+[19-Aug-2016 18:33:03 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php on line 16
+[19-Aug-2016 19:34:52 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php on line 16
+[19-Aug-2016 22:04:51 America/Chicago] PHP Fatal error:  Class 'Swift_Signers_DKIMSigner' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php on line 17
+[19-Aug-2016 22:53:27 America/Chicago] PHP Fatal error:  Class 'Swift_Signers_DKIMSigner' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php on line 17
+[20-Aug-2016 03:08:26 America/Chicago] PHP Fatal error:  Interface 'Swift_Signer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php on line 16
+[20-Aug-2016 04:07:24 America/Chicago] PHP Fatal error:  Interface 'Swift_Signer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php on line 16
+[21-Aug-2016 06:05:34 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_BodySigner' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php on line 18
+[21-Aug-2016 07:11:10 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_BodySigner' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php on line 18
+[21-Aug-2016 20:12:49 America/Chicago] PHP Fatal error:  Interface 'Swift_Signer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php on line 16
+[21-Aug-2016 21:49:36 America/Chicago] PHP Fatal error:  Interface 'Swift_Signer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php on line 16
+[22-Aug-2016 06:20:52 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php on line 16
+[22-Aug-2016 07:56:42 America/Chicago] PHP Fatal error:  Interface 'Swift_Signers_HeaderSigner' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php on line 16

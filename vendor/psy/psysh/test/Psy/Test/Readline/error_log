@@ -1,0 +1,6 @@
+[19-Aug-2016 15:28:59 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/psy/psysh/test/Psy/Test/Readline/TransientTest.php on line 16
+[19-Aug-2016 16:28:22 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/psy/psysh/test/Psy/Test/Readline/TransientTest.php on line 16
+[21-Aug-2016 04:25:22 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/psy/psysh/test/Psy/Test/Readline/GNUReadlineTest.php on line 16
+[21-Aug-2016 05:36:31 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/psy/psysh/test/Psy/Test/Readline/GNUReadlineTest.php on line 16
+[22-Aug-2016 07:24:54 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/psy/psysh/test/Psy/Test/Readline/LibeditTest.php on line 16
+[22-Aug-2016 09:01:26 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/psy/psysh/test/Psy/Test/Readline/LibeditTest.php on line 16

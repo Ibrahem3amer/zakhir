@@ -1,0 +1,12 @@
+[20-Aug-2016 16:27:02 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/DNumber.php on line 7
+[20-Aug-2016 17:26:42 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/DNumber.php on line 7
+[20-Aug-2016 18:24:19 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/String_.php on line 8
+[20-Aug-2016 19:31:53 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/String_.php on line 8
+[21-Aug-2016 10:59:34 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/EncapsedStringPart.php on line 7
+[21-Aug-2016 12:10:02 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/EncapsedStringPart.php on line 7
+[21-Aug-2016 14:01:27 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/Encapsed.php on line 7
+[21-Aug-2016 15:35:15 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/Encapsed.php on line 7
+[21-Aug-2016 18:32:22 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst.php on line 7
+[21-Aug-2016 20:07:22 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst.php on line 7
+[22-Aug-2016 00:41:08 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/LNumber.php on line 8
+[22-Aug-2016 02:17:11 America/Chicago] PHP Fatal error:  Class 'PhpParser\Node\Scalar' not found in /home1/zakhir/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/LNumber.php on line 8

@@ -1,0 +1,4 @@
+[21-Aug-2016 11:03:19 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_ExpectationFailedException' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Testing/HttpException.php on line 7
+[21-Aug-2016 12:03:51 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_ExpectationFailedException' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Testing/HttpException.php on line 7
+[21-Aug-2016 14:08:32 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php on line 8
+[21-Aug-2016 15:45:37 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php on line 8

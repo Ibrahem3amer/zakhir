@@ -1,0 +1,2 @@
+[23-Aug-2016 19:47:46 America/Chicago] PHP Fatal error:  Class 'Guzzle\Service\Resource\ResourceIterator' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Mock/Model/MockCommandIterator.php on line 7
+[23-Aug-2016 21:23:44 America/Chicago] PHP Fatal error:  Class 'Guzzle\Service\Resource\ResourceIterator' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Mock/Model/MockCommandIterator.php on line 7

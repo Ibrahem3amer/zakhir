@@ -1,0 +1,12 @@
+[14-Aug-2016 02:58:49 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/XMLTest.php on line 15
+[14-Aug-2016 04:01:51 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/_files/CoverageNamespacedFunctionTest.php on line 2
+[14-Aug-2016 10:03:45 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/XMLTest.php on line 15
+[14-Aug-2016 11:03:34 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/_files/CoverageNamespacedFunctionTest.php on line 2
+[14-Aug-2016 12:43:15 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/GlobalStateTest.php on line 13
+[14-Aug-2016 18:03:39 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/ConfigurationTest.php on line 14
+[14-Aug-2016 19:05:41 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/GlobalStateTest.php on line 13
+[15-Aug-2016 00:35:55 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/ConfigurationTest.php on line 14
+[15-Aug-2016 04:30:28 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/GetoptTest.php on line 13
+[15-Aug-2016 07:29:40 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/RegexTest.php on line 14
+[15-Aug-2016 10:42:18 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/GetoptTest.php on line 13
+[15-Aug-2016 12:28:52 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Util/RegexTest.php on line 14

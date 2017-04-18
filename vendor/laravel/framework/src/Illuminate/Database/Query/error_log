@@ -1,0 +1,4 @@
+[20-Aug-2016 04:35:29 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 22
+[20-Aug-2016 05:44:44 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 22
+[20-Aug-2016 07:24:00 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Query\Expression' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/JsonExpression.php on line 7
+[20-Aug-2016 08:33:22 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Query\Expression' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/JsonExpression.php on line 7

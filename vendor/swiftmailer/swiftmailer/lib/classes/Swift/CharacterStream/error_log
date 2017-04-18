@@ -1,0 +1,4 @@
+[20-Aug-2016 23:16:41 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 16
+[21-Aug-2016 00:22:57 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/NgCharacterStream.php on line 16
+[21-Aug-2016 13:43:03 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16
+[21-Aug-2016 15:21:34 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterStream' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterStream/ArrayCharacterStream.php on line 16

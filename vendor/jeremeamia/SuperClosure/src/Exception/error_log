@@ -1,0 +1,4 @@
+[15-Aug-2016 15:13:35 America/Chicago] PHP Fatal error:  Interface 'SuperClosure\Exception\SuperClosureException' not found in /home1/zakhir/public_html/vendor/jeremeamia/SuperClosure/src/Exception/ClosureUnserializationException.php on line 6
+[15-Aug-2016 15:23:31 America/Chicago] PHP Fatal error:  Interface 'SuperClosure\Exception\SuperClosureException' not found in /home1/zakhir/public_html/vendor/jeremeamia/SuperClosure/src/Exception/ClosureAnalysisException.php on line 6
+[15-Aug-2016 20:13:47 America/Chicago] PHP Fatal error:  Interface 'SuperClosure\Exception\SuperClosureException' not found in /home1/zakhir/public_html/vendor/jeremeamia/SuperClosure/src/Exception/ClosureUnserializationException.php on line 6
+[15-Aug-2016 20:27:59 America/Chicago] PHP Fatal error:  Interface 'SuperClosure\Exception\SuperClosureException' not found in /home1/zakhir/public_html/vendor/jeremeamia/SuperClosure/src/Exception/ClosureAnalysisException.php on line 6

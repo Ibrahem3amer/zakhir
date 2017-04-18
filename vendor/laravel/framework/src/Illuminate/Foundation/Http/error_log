@@ -1,0 +1,4 @@
+[20-Aug-2016 05:43:31 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Http\Kernel' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php on line 15
+[20-Aug-2016 06:54:49 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Http\Kernel' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php on line 15
+[22-Aug-2016 05:40:16 America/Chicago] PHP Fatal error:  Class 'Illuminate\Http\Request' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 16
+[22-Aug-2016 07:15:22 America/Chicago] PHP Fatal error:  Class 'Illuminate\Http\Request' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 16

@@ -1,0 +1,2 @@
+[19-Aug-2016 22:15:09 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/CharacterStream/ArrayCharacterStreamTest.php on line 3
+[19-Aug-2016 23:02:41 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/CharacterStream/ArrayCharacterStreamTest.php on line 3

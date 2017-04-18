@@ -1,0 +1,6 @@
+[19-Aug-2016 19:05:50 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Provider/de_CH/AddressTest.php on line 9
+[19-Aug-2016 20:07:44 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Provider/de_CH/AddressTest.php on line 9
+[20-Aug-2016 04:53:37 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Provider/de_CH/InternetTest.php on line 10
+[20-Aug-2016 06:09:33 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Provider/de_CH/InternetTest.php on line 10
+[22-Aug-2016 06:54:05 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Provider/de_CH/PhoneNumberTest.php on line 8
+[22-Aug-2016 08:30:43 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Provider/de_CH/PhoneNumberTest.php on line 8

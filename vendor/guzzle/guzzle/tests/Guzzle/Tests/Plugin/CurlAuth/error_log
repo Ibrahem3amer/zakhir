@@ -1,0 +1,2 @@
+[23-Aug-2016 03:54:31 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Plugin/CurlAuth/CurlAuthPluginTest.php on line 12
+[23-Aug-2016 05:43:42 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Plugin/CurlAuth/CurlAuthPluginTest.php on line 12

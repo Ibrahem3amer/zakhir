@@ -1,0 +1,10 @@
+[16-Aug-2016 13:43:35 America/Chicago] PHP Fatal error:  Interface 'Illuminate\View\ViewFinderInterface' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 8
+[16-Aug-2016 14:23:00 America/Chicago] PHP Fatal error:  Interface 'Illuminate\View\ViewFinderInterface' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 8
+[17-Aug-2016 07:43:18 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\View\View' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/View/View.php on line 17
+[17-Aug-2016 08:40:26 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\View\View' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/View/View.php on line 17
+[18-Aug-2016 02:42:11 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\View\Factory' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 15
+[18-Aug-2016 02:42:36 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\View\Factory' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 15
+[19-Aug-2016 00:24:05 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php on line 11
+[19-Aug-2016 01:29:07 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php on line 11
+[19-Aug-2016 04:37:56 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\HtmlString' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/View/Expression.php on line 10
+[19-Aug-2016 05:28:44 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\HtmlString' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/View/Expression.php on line 10

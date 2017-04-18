@@ -1,0 +1,2 @@
+[15-Aug-2016 02:36:51 America/Chicago] PHP Fatal error:  Interface 'Stripe\HttpClient\ClientInterface' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 9
+[15-Aug-2016 08:49:16 America/Chicago] PHP Fatal error:  Interface 'Stripe\HttpClient\ClientInterface' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 9

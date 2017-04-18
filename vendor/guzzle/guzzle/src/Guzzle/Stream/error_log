@@ -1,0 +1,4 @@
+[16-Aug-2016 22:03:44 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Stream\StreamInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Stream/Stream.php on line 10
+[16-Aug-2016 22:51:47 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Stream\StreamInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Stream/Stream.php on line 10
+[18-Aug-2016 18:28:24 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Stream\StreamRequestFactoryInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Stream/PhpStreamRequestFactory.php on line 16
+[18-Aug-2016 19:25:24 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Stream\StreamRequestFactoryInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Stream/PhpStreamRequestFactory.php on line 16

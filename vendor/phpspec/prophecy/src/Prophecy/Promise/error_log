@@ -1,0 +1,8 @@
+[16-Aug-2016 18:08:49 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/CallbackPromise.php on line 24
+[16-Aug-2016 18:55:44 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/CallbackPromise.php on line 24
+[18-Aug-2016 08:09:59 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnPromise.php on line 22
+[18-Aug-2016 08:26:13 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnPromise.php on line 22
+[18-Aug-2016 08:27:57 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php on line 25
+[18-Aug-2016 08:45:56 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php on line 25
+[19-Aug-2016 02:26:09 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnArgumentPromise.php on line 23
+[19-Aug-2016 03:14:59 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnArgumentPromise.php on line 23

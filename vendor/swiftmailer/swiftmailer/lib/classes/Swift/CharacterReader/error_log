@@ -1,0 +1,6 @@
+[19-Aug-2016 20:37:55 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterReader' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReader/UsAsciiReader.php on line 16
+[19-Aug-2016 21:36:11 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterReader' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReader/UsAsciiReader.php on line 16
+[20-Aug-2016 16:27:01 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterReader' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReader/Utf8Reader.php on line 17
+[20-Aug-2016 17:31:37 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterReader' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReader/Utf8Reader.php on line 17
+[21-Aug-2016 08:50:42 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterReader' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReader/GenericFixedWidthReader.php on line 17
+[21-Aug-2016 09:54:32 America/Chicago] PHP Fatal error:  Interface 'Swift_CharacterReader' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReader/GenericFixedWidthReader.php on line 17

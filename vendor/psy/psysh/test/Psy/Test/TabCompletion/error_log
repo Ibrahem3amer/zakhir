@@ -1,0 +1,2 @@
+[19-Aug-2016 17:35:45 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/psy/psysh/test/Psy/Test/TabCompletion/AutoCompleterTest.php on line 21
+[19-Aug-2016 18:39:51 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/psy/psysh/test/Psy/Test/TabCompletion/AutoCompleterTest.php on line 21

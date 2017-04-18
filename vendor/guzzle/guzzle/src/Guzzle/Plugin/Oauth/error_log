@@ -1,0 +1,2 @@
+[19-Aug-2016 16:12:05 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Oauth/OauthPlugin.php on line 17
+[19-Aug-2016 17:05:21 America/Chicago] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Oauth/OauthPlugin.php on line 17

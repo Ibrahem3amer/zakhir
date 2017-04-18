@@ -1,0 +1,2 @@
+[21-Aug-2016 15:24:24 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Common\Exception\GuzzleException' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Batch/Exception/BatchTransferException.php on line 12
+[21-Aug-2016 16:58:14 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Common\Exception\GuzzleException' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Batch/Exception/BatchTransferException.php on line 12

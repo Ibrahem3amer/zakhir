@@ -1,0 +1,6 @@
+[19-Aug-2016 23:29:14 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/Base64EncoderTest.php on line 3
+[20-Aug-2016 00:26:49 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/Base64EncoderTest.php on line 3
+[21-Aug-2016 06:34:55 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/Rfc2231EncoderTest.php on line 3
+[21-Aug-2016 07:45:27 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/Rfc2231EncoderTest.php on line 3
+[22-Aug-2016 04:41:08 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/QpEncoderTest.php on line 3
+[22-Aug-2016 06:16:01 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Encoder/QpEncoderTest.php on line 3

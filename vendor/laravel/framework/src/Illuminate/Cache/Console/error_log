@@ -1,0 +1,4 @@
+[20-Aug-2016 09:13:00 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 10
+[20-Aug-2016 10:28:55 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 10
+[21-Aug-2016 00:57:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 9
+[21-Aug-2016 02:07:00 America/Chicago] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 9

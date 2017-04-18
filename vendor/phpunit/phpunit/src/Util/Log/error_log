@@ -1,0 +1,6 @@
+[16-Aug-2016 14:13:45 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 17
+[16-Aug-2016 14:53:03 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 17
+[16-Aug-2016 21:58:13 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 16
+[16-Aug-2016 22:44:48 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 16
+[18-Aug-2016 09:22:56 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 18
+[18-Aug-2016 09:43:47 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 18

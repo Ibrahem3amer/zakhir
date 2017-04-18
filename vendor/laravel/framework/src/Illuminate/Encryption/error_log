@@ -1,0 +1,6 @@
+[19-Aug-2016 00:43:09 America/Chicago] PHP Fatal error:  Class 'Illuminate\Encryption\BaseEncrypter' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Encryption/McryptEncrypter.php on line 14
+[19-Aug-2016 01:57:34 America/Chicago] PHP Fatal error:  Class 'Illuminate\Encryption\BaseEncrypter' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Encryption/McryptEncrypter.php on line 14
+[19-Aug-2016 07:12:27 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[19-Aug-2016 08:03:05 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[19-Aug-2016 10:19:10 America/Chicago] PHP Fatal error:  Class 'Illuminate\Encryption\BaseEncrypter' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 10
+[19-Aug-2016 11:14:20 America/Chicago] PHP Fatal error:  Class 'Illuminate\Encryption\BaseEncrypter' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 10

@@ -1,0 +1,6 @@
+[22-Aug-2016 14:44:56 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Exception/CurlExceptionTest.php on line 11
+[22-Aug-2016 16:33:35 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Exception/CurlExceptionTest.php on line 11
+[22-Aug-2016 21:58:57 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Exception/MultiTransferExceptionTest.php on line 12
+[22-Aug-2016 22:12:59 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Exception/ExceptionTest.php on line 10
+[22-Aug-2016 23:35:11 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Exception/MultiTransferExceptionTest.php on line 12
+[23-Aug-2016 00:05:06 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Exception/ExceptionTest.php on line 10

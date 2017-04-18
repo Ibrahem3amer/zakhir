@@ -1,0 +1,4 @@
+[23-Aug-2016 20:23:58 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Message/Header/HeaderFactoryTest.php on line 10
+[23-Aug-2016 21:42:48 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Message/Header/LinkTest.php on line 8
+[23-Aug-2016 21:55:40 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Message/Header/HeaderFactoryTest.php on line 10
+[23-Aug-2016 23:27:33 America/Chicago] PHP Fatal error:  Class 'Guzzle\Tests\GuzzleTestCase' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/tests/Guzzle/Tests/Http/Message/Header/LinkTest.php on line 8

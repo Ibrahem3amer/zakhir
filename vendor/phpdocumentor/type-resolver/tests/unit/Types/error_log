@@ -1,0 +1,4 @@
+[17-Aug-2016 18:13:01 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpdocumentor/type-resolver/tests/unit/Types/ContextFactoryTest.php on line 26
+[17-Aug-2016 19:10:46 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpdocumentor/type-resolver/tests/unit/Types/ContextFactoryTest.php on line 26
+[17-Aug-2016 20:25:47 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpdocumentor/type-resolver/tests/unit/Types/ContextTest.php on line 20
+[17-Aug-2016 21:19:50 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpdocumentor/type-resolver/tests/unit/Types/ContextTest.php on line 20

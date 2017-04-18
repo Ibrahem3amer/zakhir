@@ -1,0 +1,6 @@
+[17-Aug-2016 00:48:37 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home1/zakhir/public_html/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/ThisDetectorVisitor.php on line 12
+[17-Aug-2016 01:39:19 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home1/zakhir/public_html/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/ThisDetectorVisitor.php on line 12
+[17-Aug-2016 22:15:05 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home1/zakhir/public_html/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/ClosureLocatorVisitor.php on line 17
+[17-Aug-2016 22:45:28 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home1/zakhir/public_html/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/ClosureLocatorVisitor.php on line 17
+[19-Aug-2016 04:25:15 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home1/zakhir/public_html/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/MagicConstantVisitor.php on line 14
+[19-Aug-2016 05:21:52 America/Chicago] PHP Fatal error:  Class 'PhpParser\NodeVisitorAbstract' not found in /home1/zakhir/public_html/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/MagicConstantVisitor.php on line 14

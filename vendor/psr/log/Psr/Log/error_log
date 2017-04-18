@@ -1,0 +1,10 @@
+[12-Aug-2016 01:30:52 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/NullLogger.php on line 13
+[12-Aug-2016 01:35:32 America/Chicago] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/AbstractLogger.php on line 12
+[13-Aug-2016 10:51:52 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/NullLogger.php on line 13
+[13-Aug-2016 11:22:53 America/Chicago] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/AbstractLogger.php on line 12
+[13-Aug-2016 17:14:56 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/NullLogger.php on line 13
+[13-Aug-2016 18:36:07 America/Chicago] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/AbstractLogger.php on line 12
+[22-Aug-2016 04:07:49 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/NullLogger.php on line 13
+[22-Aug-2016 04:12:49 America/Chicago] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/AbstractLogger.php on line 12
+[01-Sep-2016 05:47:42 America/Chicago] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/NullLogger.php on line 13
+[01-Sep-2016 05:53:38 America/Chicago] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home1/zakhir/public_html/vendor/psr/log/Psr/Log/AbstractLogger.php on line 12

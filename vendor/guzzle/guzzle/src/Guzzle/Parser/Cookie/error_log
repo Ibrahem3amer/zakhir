@@ -1,0 +1,2 @@
+[19-Aug-2016 18:47:37 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Parser\Cookie\CookieParserInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Parser/Cookie/CookieParser.php on line 8
+[19-Aug-2016 19:45:09 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Parser\Cookie\CookieParserInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Parser/Cookie/CookieParser.php on line 8

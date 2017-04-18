@@ -1,0 +1,4 @@
+[20-Aug-2016 07:52:15 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Schema\Builder' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 5
+[20-Aug-2016 09:01:57 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Schema\Builder' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 5
+[22-Aug-2016 02:13:48 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Schema\Builder' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[22-Aug-2016 03:52:49 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Schema\Builder' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5

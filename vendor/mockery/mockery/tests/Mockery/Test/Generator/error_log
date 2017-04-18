@@ -1,0 +1,2 @@
+[21-Aug-2016 14:53:44 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/mockery/mockery/tests/Mockery/Test/Generator/MockConfigurationBuilderTest.php on line 8
+[21-Aug-2016 16:28:14 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/mockery/mockery/tests/Mockery/Test/Generator/MockConfigurationBuilderTest.php on line 8

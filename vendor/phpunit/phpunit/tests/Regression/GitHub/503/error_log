@@ -1,0 +1,2 @@
+[19-Aug-2016 19:19:06 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Regression/GitHub/503/Issue503Test.php on line 2
+[19-Aug-2016 20:07:43 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Regression/GitHub/503/Issue503Test.php on line 2

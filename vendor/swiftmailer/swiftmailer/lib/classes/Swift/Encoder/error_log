@@ -1,0 +1,6 @@
+[19-Aug-2016 17:40:52 America/Chicago] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php on line 16
+[19-Aug-2016 18:31:00 America/Chicago] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php on line 16
+[20-Aug-2016 11:57:34 America/Chicago] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php on line 18
+[20-Aug-2016 13:09:02 America/Chicago] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php on line 18
+[21-Aug-2016 16:13:37 America/Chicago] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 16
+[21-Aug-2016 17:53:44 America/Chicago] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 16

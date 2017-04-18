@@ -1,0 +1,14 @@
+[13-Aug-2016 10:08:32 America/Chicago] PHP Fatal error:  Cannot redeclare random_int() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_int.php on line 191
+[13-Aug-2016 10:10:45 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_mcrypt.php on line 76
+[13-Aug-2016 10:11:02 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_openssl.php on line 83
+[13-Aug-2016 10:11:20 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_libsodium.php on line 86
+[13-Aug-2016 10:11:37 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_com_dotnet.php on line 81
+[13-Aug-2016 10:11:44 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_dev_urandom.php on line 148
+[13-Aug-2016 10:12:16 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_libsodium_legacy.php on line 86
+[13-Aug-2016 10:36:32 America/Chicago] PHP Fatal error:  Cannot redeclare random_int() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_int.php on line 191
+[13-Aug-2016 10:39:25 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_mcrypt.php on line 76
+[13-Aug-2016 10:39:50 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_openssl.php on line 83
+[13-Aug-2016 10:40:16 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_libsodium.php on line 86
+[13-Aug-2016 10:40:34 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_com_dotnet.php on line 81
+[13-Aug-2016 10:40:44 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_dev_urandom.php on line 148
+[13-Aug-2016 10:43:23 America/Chicago] PHP Fatal error:  Cannot redeclare random_bytes() in /home1/zakhir/public_html/vendor/paragonie/random_compat/lib/random_bytes_libsodium_legacy.php on line 86

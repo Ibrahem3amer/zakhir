@@ -1,0 +1,8 @@
+[13-Aug-2016 11:03:57 America/Chicago] PHP Fatal error:  Class 'Laravel\Socialite\AbstractUser' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/One/User.php on line 7
+[13-Aug-2016 16:07:12 America/Chicago] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\Provider' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/One/AbstractProvider.php on line 11
+[13-Aug-2016 17:46:05 America/Chicago] PHP Fatal error:  Class 'Laravel\Socialite\AbstractUser' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/One/User.php on line 7
+[13-Aug-2016 23:15:58 America/Chicago] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\Provider' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/One/AbstractProvider.php on line 11
+[14-Aug-2016 08:07:42 America/Chicago] PHP Fatal error:  Class 'Laravel\Socialite\One\AbstractProvider' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/One/BitbucketProvider.php on line 5
+[14-Aug-2016 14:42:32 America/Chicago] PHP Fatal error:  Class 'Laravel\Socialite\One\AbstractProvider' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/One/BitbucketProvider.php on line 5
+[14-Aug-2016 19:22:58 America/Chicago] PHP Fatal error:  Class 'Laravel\Socialite\One\AbstractProvider' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/One/TwitterProvider.php on line 7
+[15-Aug-2016 01:41:49 America/Chicago] PHP Fatal error:  Class 'Laravel\Socialite\One\AbstractProvider' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/One/TwitterProvider.php on line 7

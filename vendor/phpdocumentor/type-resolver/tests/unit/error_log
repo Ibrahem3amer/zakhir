@@ -1,0 +1,2 @@
+[15-Aug-2016 12:16:24 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpdocumentor/type-resolver/tests/unit/TypeResolverTest.php on line 24
+[15-Aug-2016 17:26:51 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpdocumentor/type-resolver/tests/unit/TypeResolverTest.php on line 24

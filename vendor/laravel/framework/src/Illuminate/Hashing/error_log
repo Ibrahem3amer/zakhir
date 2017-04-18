@@ -1,0 +1,4 @@
+[18-Aug-2016 10:56:09 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 7
+[18-Aug-2016 11:28:25 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 7
+[19-Aug-2016 05:40:19 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Hashing\Hasher' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 8
+[19-Aug-2016 06:24:14 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Hashing\Hasher' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 8

@@ -1,0 +1,4 @@
+[21-Aug-2016 10:16:37 America/Chicago] PHP Fatal error:  Class 'PHP_CodeCoverage_Report_XML_Node' not found in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/XML/Directory.php on line 14
+[21-Aug-2016 11:27:46 America/Chicago] PHP Fatal error:  Class 'PHP_CodeCoverage_Report_XML_Node' not found in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/XML/Directory.php on line 14
+[22-Aug-2016 06:43:43 America/Chicago] PHP Fatal error:  Class 'PHP_CodeCoverage_Report_XML_Node' not found in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/XML/Project.php on line 14
+[22-Aug-2016 08:25:02 America/Chicago] PHP Fatal error:  Class 'PHP_CodeCoverage_Report_XML_Node' not found in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/XML/Project.php on line 14

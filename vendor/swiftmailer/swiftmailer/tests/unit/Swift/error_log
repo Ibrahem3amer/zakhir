@@ -1,0 +1,6 @@
+[18-Aug-2016 08:05:06 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/DependencyContainerTest.php on line 13
+[18-Aug-2016 08:26:13 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/DependencyContainerTest.php on line 13
+[18-Aug-2016 16:03:02 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/MailerTest.php on line 3
+[18-Aug-2016 16:52:07 America/Chicago] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/MailerTest.php on line 3
+[18-Aug-2016 18:51:29 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/MessageTest.php on line 3
+[18-Aug-2016 19:44:50 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/unit/Swift/MessageTest.php on line 3

@@ -1,0 +1,6 @@
+[13-Aug-2016 10:07:29 America/Chicago] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\User' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/AbstractUser.php on line 7
+[13-Aug-2016 10:08:28 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Manager' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/SocialiteManager.php on line 12
+[13-Aug-2016 10:10:32 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php on line 7
+[13-Aug-2016 10:34:51 America/Chicago] PHP Fatal error:  Interface 'Laravel\Socialite\Contracts\User' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/AbstractUser.php on line 7
+[13-Aug-2016 10:36:28 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\Manager' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/SocialiteManager.php on line 12
+[13-Aug-2016 10:39:05 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home1/zakhir/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php on line 7

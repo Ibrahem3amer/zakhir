@@ -1,0 +1,12 @@
+[13-Aug-2016 11:46:40 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/Api.php on line 5
+[13-Aug-2016 11:55:16 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/Card.php on line 5
+[13-Aug-2016 12:37:55 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/Authentication.php on line 5
+[13-Aug-2016 18:53:05 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/Api.php on line 5
+[13-Aug-2016 19:03:34 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/Card.php on line 5
+[13-Aug-2016 19:44:39 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/Authentication.php on line 5
+[14-Aug-2016 00:53:15 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php on line 5
+[14-Aug-2016 08:06:29 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php on line 5
+[14-Aug-2016 16:33:20 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\InvalidRequest' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/RateLimit.php on line 5
+[14-Aug-2016 22:53:27 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\InvalidRequest' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/RateLimit.php on line 5
+[15-Aug-2016 00:37:06 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/ApiConnection.php on line 5
+[15-Aug-2016 06:55:18 America/Chicago] PHP Fatal error:  Class 'Stripe\Error\Base' not found in /home1/zakhir/public_html/vendor/stripe/stripe-php/lib/Error/ApiConnection.php on line 5

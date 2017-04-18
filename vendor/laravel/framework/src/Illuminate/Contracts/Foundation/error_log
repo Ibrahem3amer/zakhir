@@ -1,0 +1,2 @@
+[20-Aug-2016 20:08:12 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\Container' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[20-Aug-2016 21:06:34 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Container\Container' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7

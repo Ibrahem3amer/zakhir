@@ -1,0 +1,2 @@
+[16-Aug-2016 20:24:43 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 14
+[16-Aug-2016 21:06:20 America/Chicago] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 14

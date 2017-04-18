@@ -1,0 +1,32 @@
+[13-Aug-2016 21:27:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php on line 3
+[14-Aug-2016 04:39:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php on line 3
+[14-Aug-2016 11:38:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php on line 5
+[14-Aug-2016 18:03:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php on line 5
+[14-Aug-2016 20:40:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php on line 3
+[15-Aug-2016 02:56:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php on line 3
+[15-Aug-2016 05:42:45 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php on line 3
+[15-Aug-2016 11:50:01 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php on line 3

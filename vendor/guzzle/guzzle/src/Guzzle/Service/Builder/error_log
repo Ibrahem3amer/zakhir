@@ -1,0 +1,4 @@
+[20-Aug-2016 07:03:17 America/Chicago] PHP Fatal error:  Class 'Guzzle\Common\AbstractHasDispatcher' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Service/Builder/ServiceBuilder.php on line 16
+[20-Aug-2016 08:14:13 America/Chicago] PHP Fatal error:  Class 'Guzzle\Common\AbstractHasDispatcher' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Service/Builder/ServiceBuilder.php on line 16
+[22-Aug-2016 05:07:54 America/Chicago] PHP Fatal error:  Class 'Guzzle\Service\AbstractConfigLoader' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Service/Builder/ServiceBuilderLoader.php on line 11
+[22-Aug-2016 06:44:16 America/Chicago] PHP Fatal error:  Class 'Guzzle\Service\AbstractConfigLoader' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Service/Builder/ServiceBuilderLoader.php on line 11

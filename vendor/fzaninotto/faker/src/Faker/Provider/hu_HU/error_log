@@ -1,0 +1,12 @@
+[22-Aug-2016 09:14:50 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/PhoneNumber.php on line 5
+[22-Aug-2016 10:54:37 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/PhoneNumber.php on line 5
+[22-Aug-2016 18:41:56 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Payment' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/Payment.php on line 5
+[22-Aug-2016 18:59:00 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/Address.php on line 5
+[22-Aug-2016 19:27:54 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Text' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/Text.php on line 5
+[22-Aug-2016 20:27:00 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Payment' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/Payment.php on line 5
+[22-Aug-2016 20:41:37 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/Address.php on line 5
+[22-Aug-2016 21:04:53 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Text' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/Text.php on line 5
+[23-Aug-2016 08:06:26 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/Company.php on line 5
+[23-Aug-2016 09:03:49 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/Person.php on line 5
+[23-Aug-2016 09:54:08 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/Company.php on line 5
+[23-Aug-2016 10:45:56 America/Chicago] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/src/Faker/Provider/hu_HU/Person.php on line 5

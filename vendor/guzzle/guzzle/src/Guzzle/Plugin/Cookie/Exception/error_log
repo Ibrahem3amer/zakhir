@@ -1,0 +1,2 @@
+[23-Aug-2016 04:24:12 America/Chicago] PHP Fatal error:  Class 'Guzzle\Common\Exception\InvalidArgumentException' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Cookie/Exception/InvalidCookieException.php on line 7
+[23-Aug-2016 06:03:28 America/Chicago] PHP Fatal error:  Class 'Guzzle\Common\Exception\InvalidArgumentException' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Plugin/Cookie/Exception/InvalidCookieException.php on line 7

@@ -1,0 +1,12 @@
+[13-Aug-2016 10:10:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function stop() on null in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/scripts/auto_append.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/scripts/auto_append.php on line 2
+[13-Aug-2016 10:10:30 America/Chicago] PHP Warning:  require_once(PHP/CodeCoverage/Autoload.php): failed to open stream: No such file or directory in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/scripts/auto_prepend.php on line 2
+[13-Aug-2016 10:10:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'PHP/CodeCoverage/Autoload.php' (include_path='.:/opt/php70/lib/php') in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/scripts/auto_prepend.php on line 2
+[13-Aug-2016 10:38:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function stop() on null in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/scripts/auto_append.php:2
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/scripts/auto_append.php on line 2
+[13-Aug-2016 10:39:01 America/Chicago] PHP Warning:  require_once(PHP/CodeCoverage/Autoload.php): failed to open stream: No such file or directory in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/scripts/auto_prepend.php on line 2
+[13-Aug-2016 10:39:01 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'PHP/CodeCoverage/Autoload.php' (include_path='.:/opt/php70/lib/php') in /home1/zakhir/public_html/vendor/phpunit/php-code-coverage/scripts/auto_prepend.php on line 2

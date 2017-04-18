@@ -1,0 +1,4 @@
+[17-Aug-2016 12:56:54 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Call/CallCenterSpec.php on line 9
+[17-Aug-2016 13:41:02 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Call/CallCenterSpec.php on line 9
+[18-Aug-2016 03:03:22 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Call/CallSpec.php on line 7
+[18-Aug-2016 03:06:10 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Call/CallSpec.php on line 7

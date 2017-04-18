@@ -1,0 +1,2 @@
+[22-Aug-2016 23:04:59 America/Chicago] PHP Fatal error:  Class 'Doctrine\Tests\DoctrineTestCase' not found in /home1/zakhir/public_html/vendor/doctrine/inflector/tests/Doctrine/Tests/Common/Inflector/InflectorTest.php on line 8
+[23-Aug-2016 00:43:58 America/Chicago] PHP Fatal error:  Class 'Doctrine\Tests\DoctrineTestCase' not found in /home1/zakhir/public_html/vendor/doctrine/inflector/tests/Doctrine/Tests/Common/Inflector/InflectorTest.php on line 8

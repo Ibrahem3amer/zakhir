@@ -1,0 +1,6 @@
+[16-Aug-2016 08:42:01 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Comparator/ProphecyComparatorSpec.php on line 9
+[16-Aug-2016 09:15:24 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Comparator/ProphecyComparatorSpec.php on line 9
+[18-Aug-2016 20:46:28 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Comparator/ClosureComparatorSpec.php on line 8
+[18-Aug-2016 21:53:48 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Comparator/ClosureComparatorSpec.php on line 8
+[19-Aug-2016 08:25:08 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Comparator/FactorySpec.php on line 8
+[19-Aug-2016 09:15:46 America/Chicago] PHP Fatal error:  Class 'PhpSpec\ObjectBehavior' not found in /home1/zakhir/public_html/vendor/phpspec/prophecy/spec/Prophecy/Comparator/FactorySpec.php on line 8

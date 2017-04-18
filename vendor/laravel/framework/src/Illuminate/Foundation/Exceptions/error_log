@@ -1,0 +1,2 @@
+[21-Aug-2016 22:49:26 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Debug\ExceptionHandler' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 21
+[22-Aug-2016 00:26:26 America/Chicago] PHP Fatal error:  Interface 'Illuminate\Contracts\Debug\ExceptionHandler' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 21

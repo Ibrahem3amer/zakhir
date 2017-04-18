@@ -1,0 +1,2 @@
+[13-Aug-2016 13:39:00 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/mockery/mockery/examples/starship/StarshipTest.php on line 7
+[13-Aug-2016 20:43:31 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/mockery/mockery/examples/starship/StarshipTest.php on line 7

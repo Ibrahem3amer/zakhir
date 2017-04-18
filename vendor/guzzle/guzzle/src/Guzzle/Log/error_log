@@ -1,0 +1,14 @@
+[16-Aug-2016 09:34:13 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Log\LogAdapterInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/AbstractLogAdapter.php on line 8
+[16-Aug-2016 10:10:02 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Log\LogAdapterInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/AbstractLogAdapter.php on line 8
+[17-Aug-2016 00:45:33 America/Chicago] PHP Fatal error:  Class 'Guzzle\Log\AbstractLogAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/Zf1LogAdapter.php on line 12
+[17-Aug-2016 01:36:29 America/Chicago] PHP Fatal error:  Class 'Guzzle\Log\AbstractLogAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/Zf1LogAdapter.php on line 12
+[17-Aug-2016 10:45:08 America/Chicago] PHP Fatal error:  Class 'Guzzle\Log\AbstractLogAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/Zf2LogAdapter.php on line 10
+[17-Aug-2016 11:31:28 America/Chicago] PHP Fatal error:  Class 'Guzzle\Log\AbstractLogAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/Zf2LogAdapter.php on line 10
+[17-Aug-2016 23:46:08 America/Chicago] PHP Fatal error:  Class 'Guzzle\Log\AbstractLogAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/MonologLogAdapter.php on line 11
+[18-Aug-2016 00:33:47 America/Chicago] PHP Fatal error:  Class 'Guzzle\Log\AbstractLogAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/MonologLogAdapter.php on line 11
+[18-Aug-2016 09:20:21 America/Chicago] PHP Fatal error:  Class 'Guzzle\Log\AbstractLogAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/ClosureLogAdapter.php on line 8
+[18-Aug-2016 09:38:48 America/Chicago] PHP Fatal error:  Class 'Guzzle\Log\AbstractLogAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/ClosureLogAdapter.php on line 8
+[19-Aug-2016 00:17:27 America/Chicago] PHP Fatal error:  Class 'Guzzle\Log\AbstractLogAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/PsrLogAdapter.php on line 13
+[19-Aug-2016 01:22:37 America/Chicago] PHP Fatal error:  Class 'Guzzle\Log\AbstractLogAdapter' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/PsrLogAdapter.php on line 13
+[19-Aug-2016 04:38:13 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Log\LogAdapterInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/ArrayLogAdapter.php on line 8
+[19-Aug-2016 05:37:15 America/Chicago] PHP Fatal error:  Interface 'Guzzle\Log\LogAdapterInterface' not found in /home1/zakhir/public_html/vendor/guzzle/guzzle/src/Guzzle/Log/ArrayLogAdapter.php on line 8

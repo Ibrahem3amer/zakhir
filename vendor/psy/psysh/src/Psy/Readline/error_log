@@ -1,0 +1,6 @@
+[17-Aug-2016 17:01:16 America/Chicago] PHP Fatal error:  Class 'Psy\Readline\GNUReadline' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Readline/Libedit.php on line 23
+[17-Aug-2016 17:54:59 America/Chicago] PHP Fatal error:  Class 'Psy\Readline\GNUReadline' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Readline/Libedit.php on line 23
+[18-Aug-2016 10:32:55 America/Chicago] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Readline/Transient.php on line 19
+[18-Aug-2016 11:00:03 America/Chicago] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Readline/Transient.php on line 19
+[18-Aug-2016 11:06:14 America/Chicago] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Readline/GNUReadline.php on line 21
+[18-Aug-2016 11:23:49 America/Chicago] PHP Fatal error:  Interface 'Psy\Readline\Readline' not found in /home1/zakhir/public_html/vendor/psy/psysh/src/Psy/Readline/GNUReadline.php on line 21

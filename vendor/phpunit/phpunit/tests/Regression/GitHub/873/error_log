@@ -1,0 +1,8 @@
+[22-Aug-2016 00:42:39 America/Chicago] PHP Fatal error:  Uncaught Exception: PHPUnit suppresses exceptions thrown outside of test case function in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7
+[22-Aug-2016 02:28:42 America/Chicago] PHP Fatal error:  Uncaught Exception: PHPUnit suppresses exceptions thrown outside of test case function in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7

@@ -1,0 +1,2 @@
+[21-Aug-2016 02:42:59 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Provider/en_UG/AddressTest.php on line 8
+[21-Aug-2016 03:47:59 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/fzaninotto/faker/test/Faker/Provider/en_UG/AddressTest.php on line 8

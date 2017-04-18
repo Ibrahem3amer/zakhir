@@ -1,0 +1,8 @@
+[19-Aug-2016 13:35:08 America/Chicago] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/HtmlWithAttachmentSmokeTest.php on line 6
+[19-Aug-2016 14:31:20 America/Chicago] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/HtmlWithAttachmentSmokeTest.php on line 6
+[20-Aug-2016 15:35:00 America/Chicago] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/InternationalSmokeTest.php on line 6
+[20-Aug-2016 16:33:40 America/Chicago] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/InternationalSmokeTest.php on line 6
+[20-Aug-2016 20:11:52 America/Chicago] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/AttachmentSmokeTest.php on line 6
+[20-Aug-2016 21:12:23 America/Chicago] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/AttachmentSmokeTest.php on line 6
+[21-Aug-2016 09:40:20 America/Chicago] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/BasicSmokeTest.php on line 6
+[21-Aug-2016 10:43:29 America/Chicago] PHP Fatal error:  Class 'SwiftMailerSmokeTestCase' not found in /home1/zakhir/public_html/vendor/swiftmailer/swiftmailer/tests/smoke/Swift/Smoke/BasicSmokeTest.php on line 6

@@ -1,0 +1,2 @@
+[19-Aug-2016 12:24:01 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Regression/Trac/578/Issue578Test.php on line 2
+[19-Aug-2016 13:20:04 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home1/zakhir/public_html/vendor/phpunit/phpunit/tests/Regression/Trac/578/Issue578Test.php on line 2

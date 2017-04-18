@@ -1,0 +1,4 @@
+[19-Aug-2016 13:14:36 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Auth/Events/Login.php on line 9
+[19-Aug-2016 14:16:26 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Auth/Events/Login.php on line 9
+[20-Aug-2016 15:35:01 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Auth/Events/Logout.php on line 9
+[20-Aug-2016 16:38:21 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Queue\SerializesModels' not found in /home1/zakhir/public_html/vendor/laravel/framework/src/Illuminate/Auth/Events/Logout.php on line 9
